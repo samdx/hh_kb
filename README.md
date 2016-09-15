@@ -1,4 +1,4 @@
-## Hong Ha Knownledge Base
+## Hong Ha Knowledge Base
 
 - Blog: [http://honghaco.github.io]()
 
