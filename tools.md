@@ -5,4 +5,4 @@
 - [ ] [ImDisk Mounter](http://www.ltr-data.se/opencode.html/#ImDisk) or [imdisk-toolkit on sf.net](https://sourceforge.net/projects/imdisk-toolkit/): ImDisk is a virtual disk driver for Windows.
 - [ ] [WinCDEmu](http://wincdemu.sysprogs.org/): an open-source CD/DVD/BD emulator.
 - [ ] [SmarTTY](http://smartty.sysprogs.com/): SmarTTY is a free multi-tabbed SSH client that supports copying files and directories with SCP on-the-fly and editing files in-place.
-- [ ] [Windows X App Remover](https://sourceforge.net/projects/windows8appremover/): a simple lightweight utility designed to help list and remove Modern (Metro) UI apps from your machine. [Download on majorgeek](http://www.majorgeeks.com/files/details/windows_8_app_remover.html).
+- [ ] [Windows X App Remover](http://mademan.bplaced.net/page/winxar.html): a simple lightweight utility designed to help list and remove Modern (Metro) UI apps from your machine. Download the app on [majorgeek](http://www.majorgeeks.com/files/details/windows_8_app_remover.html) or [CodePlex](https://winxappremover.codeplex.com/).
