@@ -13,19 +13,19 @@
 tin học ta thường dùng cách viết số theo kiểu Anh, dấu phân cách giữa
 phần nguyên và phần lẻ là dấu chấm chứ không phải dấu phảy)
 
-5, 9, 17, 27, 6.625
+`5, 9, 17, 27, 6.625`
 
 2. Câu 2: Hãy đổi các số nhị phận sau đây ra hệ thập phân:
 
-11, 111, 1001, 1101, 1011.110
+`11, 111, 1001, 1101, 1011.110`
 
 3. Câu 3: Đổi các số nhị phân sau đây ra hệ 16
 
-11001110101, 1010111000101, 1111011101.1100110
+`11001110101, 1010111000101, 1111011101.1100110`
 
 4. Câu 4: Đổi các số hệ 16 ra hệ nhị phân
 
-3F8, 35AF, A45 
+`3F8, 35AF, A45`
 
 5. Câu 5: Tính giá trị của các đơn vị đo tập tin sau:
 
@@ -38,37 +38,38 @@ phần nguyên và phần lẻ là dấu chấm chứ không phải dấu phảy
 
 6. Câu 6:Tính số lần truyển dữ liệu trong thời gian 1 second:
 
-Thông số thiết bị   Số lần truyền dữ liệu trong thời gian 1 second
-RAM bus 400 MHz     400,000,000 lần truyền / 1 sec
-RAM bus 1333 MHz    
-CPU FSB 800 MHz     
-CPU 2.2 GHz         
+Thông số thiết bị | Số lần truyền dữ liệu trong thời gian 1 second |
+------------------|------------------------------------------------|
+RAM bus 400 MHz   |  400,000,000 lần truyền / 1 sec |
+RAM bus 1333 MHz  | |
+CPU FSB 800 MHz   | |
+CPU 2.2 GHz       | |
 
 7. Câu 7: Tính băng thông (Bandwith) của các thiết bị sau:
 
-Thông số thiết bị    Độ rộng đường truyền   Dung lượng dữ liệu truyền trong thời gian 1 giây
-RAM bus 400 MHz      64 bit                 3,200 MB/s
-RAM bus 667 MHz      64 bit                 
-CPU có FSB 800 MHz   64 bit                 
-USB 2.0 (480MHz)     Serial                 
-HDD SATA-2 (3GHz)    Serial                 
+Thông số thiết bị  |  Độ rộng đường truyền |  Dung lượng dữ liệu truyền trong thời gian 1 giây
+---|---|---
+RAM bus 400 MHz    |   64 bit              |   3,200 MB/s
+RAM bus 667 MHz    |  64 bit               |  
+CPU có FSB 800 MHz |  64 bit               |  
+USB 2.0 (480MHz)   |  Serial               |  
+HDD SATA-2 (3GHz)  |  Serial               |  
 
 8. Câu 8: Giải thích các thông số thiết bị sau:
 
-  ------------------- ------------------------ --------------------------------------
-  Thông số thiết bị   Thuật ngữ của thông số   Giải thích
-  Máy in 300 DPI      Dots per inch            300 điểm in trong khoảng cách 1 inch
-  Máy in 600 DPI                               
-  HDD 7200 RPM                                 
-  Máy ảnh 5 MP                                 
-  Màn hình 800x600                             
-  ------------------- ------------------------ --------------------------------------
+Thông số thiết bị   | Thuật ngữ của thông số   | Giải thích
+------------------- | ------------------------ | --------------------------------------
+Máy in 300 DPI      | Dots per inch            | 300 điểm in trong khoảng cách 1 inch
+Máy in 600 DPI      |                          |
+HDD 7200 RPM        |                          |
+Máy ảnh 5 MP        |                          |
+Màn hình 800x600    |                          |
 
 ## QUY TRÌNH LÀM VIỆC
 
-A.  Làm việc trong phòng
+### Làm việc trong phòng
 
-*1. Tiếp nhận máy từ bộ phận giao dịch*
+#### Tiếp nhận máy từ bộ phận giao dịch*
 
 - Các máy để trên giàn ở khu vực cần gấp hoặc khu vực máy để qua ngày
     > chưa xử lý phải được ưu tiên kiểm tra trước.
@@ -107,7 +108,7 @@ A.  Làm việc trong phòng
     > phải ghi rõ những gì mình đã xử lý lên phiếu dán trên thiết bị sau
     > đó bàn giao lại cho người ở phòng.
 
-*2. Nhận máy từ kho bảo hành sửa chữa*
+#### Nhận máy từ kho bảo hành sửa chữa*
 
 - Kiểm tra so sánh các thiết bị thực tế và trên phiếu có khớp nhau hay
     > không, nếu phát hiện thiếu hoặc thất lạc thiết bị thì báo ngay cho
@@ -135,14 +136,14 @@ A.  Làm việc trong phòng
     > (chi tiết), tên kỹ thuật, ngày giờ…(lưu ý cập nhật ngay sau khi
     > kiểm tra xong thiết bị).
 
-*3. Bộ phận kỹ thuật làm ca*
+#### Bộ phận kỹ thuật làm ca*
 
 - Ưu tiên xử lý những máy cần gấp và qua ngày, các máy chạy kiểm tra
     > mất nhiều thời gian, đối với ca tối hết ca phải ghi báo cáo tổng
     > hợp công việc hàng ngày, tắt hệ thống điện nơi bộ phận mình
     > làm việc.
 
-*4. kỹ thuật thử việc và học việc*
+#### kỹ thuật thử việc và học việc*
 
 - Chỉ xử lý những máy không chứa dữ liệu
 
@@ -154,9 +155,7 @@ A.  Làm việc trong phòng
 
 - Lúc gặp khó khăn nên hỏi tham khảo kỹ thuật chính.
 
-A.  Làm việc bên ngoài
-
-<!-- -->
+### Làm việc bên ngoài
 
 1.  Khi nhận nhiệm vụ, công việc bên ngoài thì bàn giao các công việc
     đang làm dở chậm nhất trong 10 phút.
@@ -205,12 +204,12 @@ A.  Làm việc bên ngoài
     công ty phải báo ngay với người điều hành và bộ phận tổng đài để
     theo dõi.
 
-1.3 QUY TRÌNH KỸ THUẬT
+## QUY TRÌNH KỸ THUẬT
 
 Một thiết bị nhận vào sẽ thuộc vào một hoặc trong nhiều lỗi trên, căn cứ
 vào từng lỗi mà áp dụng quy trình xử lý.
 
-A. Quy trình xử lý phần mềm 
+### Quy trình xử lý phần mềm 
 
 ![](chuong--i-media/media/image2.jpeg){width="3.0194444444444444in"
 height="8.175694444444444in"}
