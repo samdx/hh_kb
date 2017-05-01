@@ -1,5 +1,4 @@
-**\
-MAINBOARD LÀ GÌ?**
+## MAINBOARD LÀ GÌ?
 
 -   Là bo mạch điện tử chính làm nhiệm vụ cung cấp các kết nối vật lý và
     luận lý giữa tất cả các thiết bị trong hệ thống máy tính. Có thể xem
