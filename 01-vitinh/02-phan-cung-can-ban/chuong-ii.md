@@ -1,14 +1,13 @@
-Chương II: Phần cứng máy tính
+# Phần cứng máy tính
 
-**2.1 TỔNG QUAN VỀ PHẦN CỨNG MÁY TÍNH**
+## TỔNG QUAN VỀ PHẦN CỨNG MÁY TÍNH
 
-**I. Các khái niệm cơ bản:**
-
-**1. Phần cứng (Hardware):**
+### Các khái niệm cơ bản
+#### Phần cứng (Hardware)
 
 Phần cứng là các thiết bị vật lý của máy tính.
 
-**2. Phần mềm (Software):**
+#### Phần mềm (Software)
 
 Là các chương trình được thiết kế chứa các mã lệnh giúp phần cứng làm
 việc phục vụ nhu cầu người sử dụng. Phần mềm được lưu trữ trong các
@@ -23,86 +22,78 @@ trình thiết bị (driver).
 Phần mềm ứng dụng (**Application Softwares**): là các phần mềm chạy trên
 nền các hệ điều hành để giúp người sử dụng thao tác với máy tính.
 
-**3. Các loại máy tính thông dụng:**
+#### Các loại máy tính thông dụng:**
 
-**3.1 Mainframe:**
+##### Mainframe:**
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Hình bên là một siêu máy tính của hãng IBM với tốc độ nhanh nhất thế giới hiện nay.                                                                                                                                   ![](chuong-ii-media/media/image1.gif){width="2.7083333333333335in" height="1.9270833333333333in"}
-                                                                                                                                                                                                                        
-  Là những máy tính có cấu hình phần cứng lớn, tốc độ xử lý cao được dùng trong các công việc đòi hỏi tính toán lớn như làm máy chủ phục vụ mạng Internet, máy chủ để tính toán phục vụ dự báo thời tiết, vũ trụ.....   
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hình bên là một siêu máy tính của hãng IBM với tốc độ nhanh nhất thế giới hiện nay.                                         
 
-**3.2 PC - Persional Computer:**
+![](chuong-ii-media/media/image1.gif)
+                                                                                           
+Là những máy tính có cấu hình phần cứng lớn, tốc độ xử lý cao được dùng trong các công việc đòi hỏi tính toán lớn như làm máy chủ phục vụ mạng Internet, máy chủ để tính toán phục vụ dự báo thời tiết, vũ trụ.....   
 
-  -------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Máy vi tính cá nhân, tên gọi khác máy tính để bàn (Desktop).   ![](chuong-ii-media/media/image2.gif){width="2.1041666666666665in" height="1.3229166666666667in"}
-  -------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+##### PC - Persional Computer:**
 
-**3.3 Laptop, DeskNote, Notebook**
+Máy vi tính cá nhân, tên gọi khác máy tính để bàn (Desktop).
 
-  ----------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Là những máy tính xách tay.   ![](chuong-ii-media/media/image3.gif){width="2.0833333333333335in" height="1.4583333333333333in"}
-  ----------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![](chuong-ii-media/media/image2.gif)
 
-**3.4 PDA - Persional Digital Assistant**
+##### Laptop, DeskNote, Notebook**
+Là những máy tính xách tay.
 
-  --------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------
-  Thiết bị hỗ trợ kỹ thuật số cá nhân. Tên gọi khác: máy tính cầm tay, máy tính bỏ túi (Pocket PC).   ![](chuong-ii-media/media/image4.gif){width="1.6145833333333333in" height="2.5625in"}
-                                                                                                      
-  Ngày nay có rất nhiều điện thoại di động có tính năng của một PDA.                                  
-  --------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------
+![](chuong-ii-media/media/image3.gif)
 
-** II. Cấu trúc máy tính:**
+##### PDA - Persional Digital Assistant**
 
-  --------------------- ----------------------- --------------------------
-  **THIẾT BỊ NHẬP  **   **THIẾT BỊ XỬ LÝ **     **      THIẾT BỊ XUẤT **
-                                                
-                        **THIẾT BỊ LƯU TRỮ **   
-  --------------------- ----------------------- --------------------------
+Thiết bị hỗ trợ kỹ thuật số cá nhân. Tên gọi khác: máy tính cầm tay, máy tính bỏ túi (Pocket PC).
 
-**1. Thiết bị nhập (Input Devices)**
+![](chuong-ii-media/media/image4.gif)
+
+Ngày nay có rất nhiều điện thoại di động có tính năng của một PDA.                                  
+
+### Cấu trúc máy tính:**
+
+#### Thiết bị nhập (Input Devices)**
 
 Là những thiết bị nhập dữ liệu vào máy tính như bàn phím, chuột, máy
 quét, máy scan...
 
-**2. Thiết bị xử lý (Processing Devies)**
+#### Thiết bị xử lý (Processing Devies)**
 
 Là những thiết bị xử lý dữ liệu bao gồm bộ vi xử lý, bo mạch chủ.
 
-**3. Thiết bị lưu trữ (Stogare Devices)**
+#### Thiết bị lưu trữ (Stogare Devices)**
 
-Là những thiết bị lưu trữ dữ liệu bao gồm bộ nhớ trong và bộ nhớ ngoài. 
+- Là những thiết bị lưu trữ dữ liệu bao gồm bộ nhớ trong và bộ nhớ ngoài. 
+- Bộ nhớ trong bao gồm bộ nhớ chì đọc ROM, bộ nhớ truy xuất ngẫu nhiên RAM.
+- Bộ nhớ ngoài bao gồm ổ cứng, đĩa mềm, đĩa CD, DVD, ổ cứng USB, thẻ nhớ và các thiết bị lưu trữ khác.
 
-Bộ nhớ trong bao gồm bộ nhớ chì đọc ROM, bộ nhớ truy xuất ngẫu nhiên
-RAM.
+#### Thiết bị xuất (Output Devices)**
 
-Bộ nhớ ngoài bao gồm ổ cứng, đĩa mềm, đĩa CD, DVD, ổ cứng USB, thẻ nhớ
-và các thiết bị lưu trữ khác.
+- Là những thiết bị hiển thị và xuất dữ liệu từ máy tính. Thiết bị xuất bao gồm màn hình, đèn chiếu, máy in...
 
-**4. Thiết bị xuất (Output Devices)**
+### THIẾT BỊ NỘI VI
 
-Là những thiết bị hiển thị và xuất dữ liệu từ máy tính. Thiết bị xuất
-bao gồm màn hình, đèn chiếu, máy in...
+#### Vỏ máy - Case**
 
-**III. THIẾT BỊ NỘI VI**
+- Công dụng: Thùng máy là giá đỡ để gắn các bộ phận khác của máy và bảo vệ các thiết bị khỏi bị tác động bởi môi trường.
 
-**1. Vỏ máy - Case**
+Case chưa sử dụng   
+![](chuong-ii-media/media/image5.gif)
 
-Công dụng: Thùng máy là giá đỡ để gắn các bộ phận khác của máy và bảo vệ
-các thiết bị khỏi bị tác động bởi môi trường.
+Case đang sử dụng
+![](chuong-ii-media/media/image6.jpeg)
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](chuong-ii-media/media/image5.gif){width="1.7291666666666667in" height="1.5833333333333333in"}   ![](chuong-ii-media/media/image6.jpeg){width="1.6458333333333333in" height="1.5833333333333333in"}   ![](chuong-ii-media/media/image7.jpeg){width="1.7291666666666667in" height="1.5104166666666667in"}
-  Case chưa sử dụng                                                                                                                                                 Case đang sử dụng                                                                                                                                                  Case hết sử dụng
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Case hết sử dụng
+![](chuong-ii-media/media/image7.jpeg)
 
-**2. Bộ nguồn - Power**
+#### Bộ nguồn - Power**
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Công dụng:** là thiết bị chuyển điện xoay chiều thành điện 1 chiều để cung cấp cho các bộ phận phần cứng với nhiều hiệu điện thế khác nhau.   ![](chuong-ii-media/media/image8.gif){width="1.7916666666666667in" height="1.6458333333333333in"}
-                                                                                                                                                  
-  Bộ nguồn thường đi kèm với vỏ máy.                                                                                                              
+- **Công dụng:** là thiết bị chuyển điện xoay chiều thành điện 1 chiều để cung cấp cho các bộ phận phần cứng với nhiều hiệu điện thế khác nhau.
+
+![](chuong-ii-media/media/image8.gif)
+                     
+Bộ nguồn thường đi kèm với vỏ máy.                                                                                                              
   ----------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3. Bảng mạch chủ (Mainboard, Motherboard)**
