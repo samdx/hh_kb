@@ -87,7 +87,7 @@ Case đang sử dụng
 Case hết sử dụng
 ![](chuong-ii-media/media/image7.jpeg)
 
-#### Bộ nguồn - Power**
+#### Bộ nguồn - Power
 
 - **Công dụng:** là thiết bị chuyển điện xoay chiều thành điện 1 chiều để cung cấp cho các bộ phận phần cứng với nhiều hiệu điện thế khác nhau.
 
