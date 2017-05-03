@@ -7,9 +7,7 @@
 
 ### Bài tập
 
-1. Câu 1: Hãy đổi các số thập phân sau đây ra hệ nhị phân (chú ý rằng trong
-tin học ta thường dùng cách viết số theo kiểu Anh, dấu phân cách giữa
-phần nguyên và phần lẻ là dấu chấm chứ không phải dấu phảy)
+1. Câu 1: Hãy đổi các số thập phân sau đây ra hệ nhị phân (chú ý rằng trong tin học ta thường dùng cách viết số theo kiểu Anh, dấu phân cách giữa phần nguyên và phần lẻ là dấu chấm chứ không phải dấu phảy)
 
 `5, 9, 17, 27, 6.625`
 
@@ -34,7 +32,7 @@ phần nguyên và phần lẻ là dấu chấm chứ không phải dấu phảy
 | 6.8 MB | | | | | |
 | 271 KB | | | | | |
 
-6. Câu 6:Tính số lần truyển dữ liệu trong thời gian 1 second:
+6. Câu 6: Tính số lần truyển dữ liệu trong thời gian 1 second:
 
 Thông số thiết bị | Số lần truyền dữ liệu trong thời gian 1 second |
 ------------------|------------------------------------------------|
