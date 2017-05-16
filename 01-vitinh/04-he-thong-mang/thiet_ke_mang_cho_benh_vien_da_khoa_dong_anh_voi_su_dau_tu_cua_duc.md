@@ -1,4 +1,4 @@
-***Thiết kế mạng cho bệnh vịện đa khoa Đông Anh với sự đầu tư của Đức***
+Thiết kế mạng cho bệnh vịện đa khoa Đông Anh với sự đầu tư của Đức
 
 Kinh nghiệm của các nước tiên tiến trên thế giới đã chi ra rằng, ứng
 dụng công nghệ thông tin trong y tế đã nâng cao đáng kể hiệu quả phục vụ
@@ -10,7 +10,7 @@ k
 1. Khảo sát hệ thống mạng
 -------------------------
 
-\*Thu thập thông tin về bệnh viên thông qua các phương pháp:
+Thu thập thông tin về bệnh viên thông qua các phương pháp:
 
 -Phương pháp nghiên cứu tài liệu viết:
 
@@ -60,7 +60,7 @@ Quản lí thuốc và cơ sở vật chất
 
 Quản lí bệnh án điện tử…
 
-\*Sau khi phân tích các kết quả thu được
+Sau khi phân tích các kết quả thu được
 
 -Số lượng người dùng từng ứng dụng: mạng máy tính sẽ xây dựng cho 150
 cán bộ, bác sĩ, y tá và nhân viên khác sử dụng, như vậy quy mô của mạng
@@ -93,7 +93,7 @@ hiện từng phần riêng lẻ như quản lí nhân sự thu viện phí, qu�
 dược, đón tiếp bệnh nhân, khám bệnh…Chưa có nhiều kinh nghiệm về trình
 độ quản lí
 
-\*Các thông tin phục vụ bản vẽ chi tiết:
+Các thông tin phục vụ bản vẽ chi tiết:
 
 -Số lượng trạm và vị trí các ổ cắm mạng:
 
@@ -102,7 +102,7 @@ dược, đón tiếp bệnh nhân, khám bệnh…Chưa có nhiều kinh nghi�
 -Độ dài các đoạn cáp giữa các thiết bị
 
 -Trạng thái nhà cửa văn phòng: Bệnh viện có 2 tòa nhà 5 tầng, mõi tầng
-diện tích xây dựng khoảng 400m2 (10\*40)
+diện tích xây dựng khoảng 400m2 (1040)
 
 +Nhà A: 5 Tầng
 
@@ -146,7 +146,7 @@ dễ quản lí, thân thiện và dễ sử dụng, tiết kiệm kinh phí
 2. Phân tích
 ------------
 
-\*Phân tích mục tiêu của bênh viện: thống nhất các dòng thông tin trong
+Phân tích mục tiêu của bênh viện: thống nhất các dòng thông tin trong
 toàn bệnh viện, trước hết đó là dòng thông tin quản lý, liên quan đến
 quản lí nhân sự, quản lý tài chính, quản lí cơ sở vật chất và nhất là
 quản lí bệnh nhân, phần cơ bản và đặc trưng nhất trong các bệnh
@@ -155,13 +155,13 @@ ra thành bệnh nhân nội trú và bệnh nhân ngoại trú. Mục tiêu c�
 viện này là đầu tư để hiện đại hóa mạng với các lắp đặt có thể coi là
 hoàn toàn mới
 
-\*Phân tích hệ thống hiện tại: Các nguồn lực hiện tại của mạng ở mức
+Phân tích hệ thống hiện tại: Các nguồn lực hiện tại của mạng ở mức
 thấp, phần cứng cưa hệ thống chưa có gì, yêu cầu lắp dặt mới hoàn toàn
 với các thiết bị hiện đại, bên cạnh đó là việc xây dựng hệ thống phần
 mềm hoàn thiện cho hệ thống máy tính của cả bệnh viện, bên cạnh đó là
 điều kiện quản lí của bệnh viện phải tốt hơn trước
 
-\*Phân tích các luồng dữ liệu trên mạng: Yêu cầu truyền dữ liệu của bệnh
+Phân tích các luồng dữ liệu trên mạng: Yêu cầu truyền dữ liệu của bệnh
 viện bản chất là xem các dữ liệu chạy trên luồng, tức là xác định các
 topology để các đường nầy không chạy chồng lên nhau, không bị đan chéo
 nhau gây nghẽn dường truyền , có nghĩa là phải xác định khu vực nào cần
@@ -205,9 +205,9 @@ trục dày, giữa 2 switch dùng cáp UTP CAT 5. Trong tòa nhà dùng Star
 Topology dễ tách ra các đoạn mạng mở, biết lưu lượng trong mạng được 1
 switch quản lí.Giữa hai tòa nhà dùng Bus Topology.
 
-> \*Các thiết bị được sử dụng trong mạng
+> Các thiết bị được sử dụng trong mạng
 >
-> a\) Card mạng (Network Interface Card-NIC):
+> a) Card mạng (Network Interface Card-NIC):
 >
 > -Là một thiét bị điện tử, có chức năng liên kết các nút mạng
 >
@@ -224,7 +224,7 @@ switch quản lí.Giữa hai tòa nhà dùng Bus Topology.
 > liệu giữa máy tính và hệ thống card. Người ta còn sử dụng cho các
 > thiết bị khác như camera, máy in…chạy ở tầng Physical
 >
-> b\) Bộ dẫn đường (Router)
+> b) Bộ dẫn đường (Router)
 >
 > -Chức năng cơ bản là nối các mạng với giao thức và kiến trúc mạng khác
 > nhau, có chức năng định tuyến (quyết định tuyến đường tốt nhất để
@@ -247,7 +247,7 @@ switch quản lí.Giữa hai tòa nhà dùng Bus Topology.
 > Khi kết nối router tự lập bảng routing table và khi có yêu cầu nó tự
 > động tìm đường đi ngắn nhất và truyền dữ liệu đi
 >
-> c\) Bức tường lửa
+> c) Bức tường lửa
 >
 > -Là phần cứng chạy trên phần mềm (OS) riêng của nó, có hệ điều hành
 > riêng, chức năng làm trung gian giữa mạng chính và mạng ngoàikiểm
@@ -258,7 +258,7 @@ switch quản lí.Giữa hai tòa nhà dùng Bus Topology.
 > như vậy sẽ gây ra nghẽn mạng nên chặn được virut hay không còn phụ
 > thuộc vào cấu hình cụ thể
 >
-> d\) Modem (Modulation-Demodulation)
+> d) Modem (Modulation-Demodulation)
 >
 > Modem ADSL
 >
@@ -283,7 +283,7 @@ switch quản lí.Giữa hai tòa nhà dùng Bus Topology.
 > thông thường thì tốc độ tải xuống cuẩ ADSL cao gấp 40 lần, còn nếu so
 > sánh với công nghệ truy nhập ISDN thì cao gấp 60 lần
 >
-> e\) Thiết bị mạng không dây
+> e) Thiết bị mạng không dây
 >
 > Môi trường truyền dẫn ở đây là truyền qua song vô tuyến với tần số
 > khác nhau
@@ -293,7 +293,7 @@ switch quản lí.Giữa hai tòa nhà dùng Bus Topology.
 >
 > Accesspoint Bridge: Kết nối hai mạng với nhau
 >
-> f\) Các phương tiện truyền dẫn (Tranmission media)
+> f) Các phương tiện truyền dẫn (Tranmission media)
 >
 > +Dây cáp mạng: truyền dữ liệu, các bit thông tin từ điểm này đến điểm
 > kia
@@ -334,7 +334,7 @@ switch quản lí.Giữa hai tòa nhà dùng Bus Topology.
 > ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image4.png){width="6.248611111111111in"
 > height="5.375in"}
 >
-> \*Các thiết bị cụ thể được dùng như sau:
+> Các thiết bị cụ thể được dùng như sau:
 >
 > -Danh sách các server:
 >
@@ -352,7 +352,7 @@ switch quản lí.Giữa hai tòa nhà dùng Bus Topology.
 >
 > -Danh sách các thiết bị:
 >
-> 1\. Switch
+> 1. Switch
 >
 > -Nhà A, Tầng 2: 1 switch Cisco 24 port 100 Mbps
 >
@@ -362,21 +362,21 @@ switch quản lí.Giữa hai tòa nhà dùng Bus Topology.
 >
 > -DMZ 1 switch 12 port 100Mbps
 >
-> 2\. Backbone
+> 2. Backbone
 >
 > Sử dụng Switch 1Gbit
 >
 > Cable CAT 6E STP
 >
-> 3\. Router
+> 3. Router
 >
 > 2 Router Cisco
 >
-> 4\. Firewall
+> 4. Firewall
 >
 > Sử dụng bộ Cisco ASA 5520 4 port để ngăn cách LAN, DMZ, Internet
 
-\*Bảng phân bố địa chỉ IP
+Bảng phân bố địa chỉ IP
 
   ---------- -------- ---------------------------- ---------------
   Nhà A      Tầng 1   172.19.4.1- 172.19.10.254    255.255.252.0
@@ -402,23 +402,23 @@ Mạng LAN khác gồm 6 Web Server:
 
 207.46.23.193-207.46.230.224 Subnet Mask: 255.255.255.224
 
-> \*Phác thảo thiết kế:
+> Phác thảo thiết kế:
 
-1\. Ở nhà B ta thiết kế một mạng LAN riêng biệt, mạng này được nối với
+1. Ở nhà B ta thiết kế một mạng LAN riêng biệt, mạng này được nối với
 khu vực trung tâm mạng đặt ở tầng 2 nhà A thông qua một đường dây đồng
 trục (do đường truyền dữ liệu đi qua đây sẽ có mật độ tương đối cao) để
 đảm bảo tốc độ truyền
 
-2\. Đường dây đi trong máng để tránh các tác động bên ngoài không tốt như
+2. Đường dây đi trong máng để tránh các tác động bên ngoài không tốt như
 va chạm, thời tiết… ngoài ra cũng để tránh lãng phí những khoảng không
 gian để sử dụng vào việc khác, cũng để tăng tính thẩm mĩ cho bệnh viện
 
-3\. Các Access Point được đặt để đảm bảo khu vực phủ song của cả hi tòa
+3. Các Access Point được đặt để đảm bảo khu vực phủ song của cả hi tòa
 nhà (với bán kính phủ song là 30m)
 
-4\. Lắp đặt các thiết bị như bản thiết kế
+4. Lắp đặt các thiết bị như bản thiết kế
 
-> \*Mô hình vật lí chung của các phòng ban và trung tâm mạng:
+> Mô hình vật lí chung của các phòng ban và trung tâm mạng:
 
 ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image5.jpeg){width="12.5375in"
 height="6.802083333333333in"}
@@ -428,7 +428,7 @@ Mô hình vật lí tầng 1:
 ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image6.png){width="6.370138888888889in"
 height="3.25in"}
 
-> \*Giaỉ thích:
+> Giaỉ thích:
 
 -Mạng gồm 3 mạng LAN. Các mạng LAN này phải đi qua 1 Firewall trước khi
 đến Router
@@ -455,7 +455,7 @@ yêu cầu xin IP từ máy Client đến máy DHCP
 
 -Switch Backbone sử dụng là loại có 12 port 1Gbit
 
-> \*Bảng các mối nối:
+> Bảng các mối nối:
 
   --------------------- -----------------------------
   Mối nối               Tên cổng
@@ -483,7 +483,7 @@ yêu cầu xin IP từ máy Client đến máy DHCP
                         Modem FastEthernet
   --------------------- -----------------------------
 
-> \*Mô hình logic:
+> Mô hình logic:
 
 4. Thiết kế chi tiết
 --------------------
@@ -491,7 +491,7 @@ yêu cầu xin IP từ máy Client đến máy DHCP
 Mô hình mạng của bệnh viện gồm cả mạng không dây và mạng có dây, trong
 đó mạng không dây được liên kết vào mạng chung thông qua AccessPoint.
 
-> \*Mạng có dây:
+> Mạng có dây:
 
 -Mạng gồm các mạng LAN nhỏ, có băng thông rộng, được xây dựng trên nền
 tảng công nghệ tốc đọ truyền dẫn cao, sử dụng hệ thống UTP CAT 5, STP
@@ -522,7 +522,7 @@ truyền; chống virut , các truy cập bất hợp pháp ; tăng cường tí
 mật và đồng thời cũng đóng vai trò là một Proxy server của mạng nội bộ
 của bệnh viện. Nó được cấp phát một IP tĩnh của nhà cung cấp.
 
-> \*Mạng không dây:
+> Mạng không dây:
 
 Mạng không dây được xây dựng trên chuẩn IEEE 802.11g, tần số 2.4 GHz,
 tốc độ 54 Mbps.
@@ -543,17 +543,17 @@ máy Laptop có thể truy cập được .
 Các AP được bố trí để tầm phủ sóng có thể phủ kín khu vực mạng của bệnh
 viện và không bị mất mạng khi di chuyển giữa 2 toà nhà.
 
-> \*Mô hình khu vực trung tâm mạng (tầng 2, nhà A)
+> Mô hình khu vực trung tâm mạng (tầng 2, nhà A)
 
 ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image7.jpeg){width="12.5375in"
 height="6.802083333333333in"}
 
-> \*Tủ thiết bị được đặt ở trung tâm mạng
+> Tủ thiết bị được đặt ở trung tâm mạng
 
 ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image8.png){width="4.0625in"
 height="6.677083333333333in"}
 
-> \*Lập kế hoạch cà thi công hệ thống cáp:
+> Lập kế hoạch cà thi công hệ thống cáp:
 
 -Giữa các phòng trong cùng một tầng có các đường kết nối cáp ngang.
 
@@ -658,13 +658,13 @@ qua máy đó
 
 -Các giao thức
 
-+TCP\\IP
++TCPIP
 
 -Hệ quản trị cơ sở dữ liệu: sử dụng hệ quản trị cơ sở dữ liệu SQL Server
 2000
 
 SQL Server 2000 là một hệ thống quản lý cơ sở dữ liệu (Relational
-Database Management System (RDBMS) ) sử dụng **Transact-SQL** để trao
+Database Management System (RDBMS) ) sử dụng Transact-SQL để trao
 đổi dữ liệu giữa Client computer và SQL Server computer. Một RDBMS bao
 gồm databases, database engine và các ứng dụng dùng để quản lý dữ liệu
 và các bộ phận khác nhau trong RDBMS.
@@ -685,13 +685,13 @@ tương thích với version 6.5. Trong khi đó từ Version 7.0 lên version 8
 (SQL Server 2000) thì những cải tiến chủ yếu là mở rộng các tính năng về
 web và làm cho SQL Server 2000 đáng tin cậy hơn.
 
-Một điểm đặc biệt đáng lưu ý ở version 2000 là **Multiple-Instance**.
+Một điểm đặc biệt đáng lưu ý ở version 2000 là Multiple-Instance.
 Nói cho dễ hiểu là bạn có thể install version 2000 chung với các version
 trước mà không cần phải uninstall chúng. Nghĩa là bạn có thể chạy song
 song version 6.5 hoặc 7.0 với version 2000 trên cùng một máy (điều này
 không thể xảy ra với các version trước đây). Khi đó version cũ trên máy
-bạn là **Default Instance** còn version 2000 mới vừa install sẽ là
-**Named Instance**.
+bạn là Default Instance còn version 2000 mới vừa install sẽ là
+Named Instance.
 
 Các thành phần quan trọng trong SQL Server 2000
 
@@ -703,7 +703,7 @@ việc lưu trữ và phân tích dữ liệu một cách dễ dàng.
 ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image9.png){width="5.247916666666667in"
 height="3.9270833333333335in"}
 
-**Relational Database Engine** - Cái lõi của SQL Server:
+Relational Database Engine - Cái lõi của SQL Server:
 
 Ðây là một engine có khả năng chứa data ở các quy mô khác nhau dưới dạng
 table và support tất cả các kiểu kết nối (data connection) thông dụng
@@ -712,7 +712,7 @@ Connectivity (ODBC). Ngoài ra nó còn có khả năng tự điều chỉnh (tu
 ví dụ như sử dụng thêm các tài nguyên (resource) của máy khi cần và trả
 lại tài nguyên cho hệ điều hành khi một user log off.
 
-**Replication** - Cơ chế tạo bản sao (Replica):
+Replication - Cơ chế tạo bản sao (Replica):
 
 Giả sử bạn có một database dùng để chứa dữ liệu được các ứng dụng thường
 xuyên cập nhật. Một ngày đẹp trời bạn muốn có một cái database giống y
@@ -724,7 +724,7 @@ dùng cơ chế back up and restore trong trường hợp này. Lúc đó cơ ch
 replication của SQL Server sẽ được sử dụng để bảo đảm cho dữ liệu ở 2
 database được đồng bộ (synchronized)
 
-**Data Transformation Service (DTS)** - Một dịch vụ chuyển dịch data vô
+Data Transformation Service (DTS) - Một dịch vụ chuyển dịch data vô
 cùng hiệu quả
 
 Nếu bạn làm việc trong một công ty lớn trong đó data được chứa trong
@@ -735,7 +735,7 @@ không chỉ di chuyển bạn còn muốn định dạng (format) nó trước 
 database khác, khi đó bạn sẽ thấy DTS giúp bạn giải quyết công việc trên
 dễ dàng như thế nào.
 
-**Analysis Service** - Một dịch vụ phân tích dữ liệu rất hay của
+Analysis Service - Một dịch vụ phân tích dữ liệu rất hay của
 Microsoft
 
 Dữ liệu (Data) chứa trong database sẽ chẳng có ý nghĩa gì nhiều nếu như
@@ -745,49 +745,49 @@ dữ liệu trở nên dễ dàng và hiệu quả bằng cách dùng khái ni�
 nhiều chiều (multi-dimension cubes) và kỹ thuật "đào mỏ dữ liệu" (data
 mining)
 
-**English Query**
+English Query
 
 Một dịch vụ mà người Việt Nam chắc là ít muốn dùng. Ðây là một dịch vụ
 giúp cho việc query data bằng tiếng Anh "trơn" (plain English).
 
-**Meta Data Service**:
+Meta Data Service:
 
 Meta data là những thông tin mô tả về cấu trúc của data trong database
 như data thuộc loại nào String hay Integer..., một cột nào đó có phải là
 Primary key hay không....Bởi vì những thông tin này cũng được chứa trong
 database nên cũng là một dạng data nhưng để phân biệt với data "chính
 thống" người ta gọi nó là Meta Data.Phần này chắc là bạn phải xem thêm
-trong một thành phần khác của SQL Server sắp giới thiệu sau đây là **SQL
-Server Books Online** vì không có bài nào trong loạt bài này nói rõ về
+trong một thành phần khác của SQL Server sắp giới thiệu sau đây là SQL
+Server Books Online vì không có bài nào trong loạt bài này nói rõ về
 dịch vụ này cả.
 
-**SQL Server Books Online**:
+SQL Server Books Online:
 
 Cho dù bạn có đọc các sách khác nhau dạy về SQL server thì bạn cũng sẽ
 thấy books online này rất hữu dụng và không thể thiếu được (cho nên
 Microsoft mới hào phóng đính kèm theo SQL Server).
 
-**SQL Server Tools** - Ðây là một bộ đồ nghề của người quản trị cơ sở dữ
+SQL Server Tools - Ðây là một bộ đồ nghề của người quản trị cơ sở dữ
 liệu (DBA )
 
--   Ðầu tiên phải kể đến **Enterprise Manager**. Ðây là một công cụ cho
+-   Ðầu tiên phải kể đến Enterprise Manager. Ðây là một công cụ cho
     ta thấy toàn cảnh hệ thống cơ sở dữ liệu một cách rất trực quan. Nó
     rất hữu ích đặc biệt cho người mới học và không thông thạo lắm
     về SQL.
 
--   Kế đến là **Query Analyzer**. Ðối với một DBA giỏi thì hầu như chỉ
+-   Kế đến là Query Analyzer. Ðối với một DBA giỏi thì hầu như chỉ
     cần công cụ này là có thể quản lý cả một hệ thống database mà không
     cần đến những thứ khác. Ðây là một môi trường làm việc khá tốt vì ta
     có thể đánh bất kỳ câu lệnh SQL nào và chạy ngay lập tức đặc biệt là
     nó giúp cho ta debug mấy cái stored procedure dễ dàng.
 
--   Công cụ thứ ba cần phải kể đến là **SQL Profiler**. Nó có khả năng
+-   Công cụ thứ ba cần phải kể đến là SQL Profiler. Nó có khả năng
     "chụp" (capture) tất cả các sự kiện hay hoạt động diễn ra trên một
     SQL server và lưu lại dưới dạng text file rất hữu dụng trong việc
     kiểm soát hoạt động của SQL Server.
 
 -   Ngoài một số công cụ trực quan như trên chúng ta cũng thường hay
-    dùng **osql** và **bcp** (bulk copy) trong command prompt.
+    dùng osql và bcp (bulk copy) trong command prompt.
 
 -Hệ thống phần mềm:
 
@@ -838,7 +838,7 @@ Một số phầm mềm gắn với thiết bị lưu trữ:
   HP Storage Work Continuous Access EVA   Dùng sản phẩm từ đĩa HP EVA (Enterprise Virtual Array)
   --------------------------------------- --------------------------------------------------------
 
-\*Backup bằng các thiết bị
+Backup bằng các thiết bị
 
 Có thể sử dụng kết hợp giữa các cách sau
 
@@ -898,7 +898,7 @@ an toàn.
                       Thiết bị mạng Cisco 2600 Load Balancing & Security BroadBand router + 4 WAN port connect to 4 ADSL router   12,890,880     1
                       Thiết bị mạng Linksys Router AG241 4 Ports RJ45                                                             1,267,000      4
   Firewall            ASA 5520                                                                                                    5,780.850      1
-  Modem               **ADSL2/2+ Speed up to 24Mbps MODEM - 01 LAN, 01 USB**                                                      679,202        1
+  Modem               ADSL2/2+ Speed up to 24Mbps MODEM - 01 LAN, 01 USB                                                      679,202        1
   Máy in              CANON LBP 3300                                                                                              3,492,000      18
   Dây nối             UTP CAT 5E                                                                                                  4000/M         1000m
                       STP CAT 6E                                                                                                  15000/M        100M
@@ -908,10 +908,10 @@ an toàn.
   Tổng tiền                                                                                                                       1,110,270,36   
   ------------------- ----------------------------------------------------------------------------------------------------------- -------------- ----------
 
-**MỤC LỤC**
+MỤC LỤC
 
-[***Thiết kế mạng cho bệnh vịện đa khoa Đông Anh với sự đầu tư của
-Đức*** 1](#__RefHeading___Toc230092450)
+[Thiết kế mạng cho bệnh vịện đa khoa Đông Anh với sự đầu tư của
+Đức 1](#__RefHeading___Toc230092450)
 
 [1. Khảo sát hệ thống mạng 1](#khảo-sát-hệ-thống-mạng)
 

@@ -1,4 +1,4 @@
-# Tổng Quan
+## Tổng Quan
 
 Một bộ máy tính được lắp ráp từ các thiết bị sau:
 

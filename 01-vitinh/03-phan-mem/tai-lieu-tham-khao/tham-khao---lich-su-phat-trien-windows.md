@@ -46,8 +46,7 @@ là hệ điều hành được phát hành năm 1981. Hệ điều hành mới 
 Bill Gates và Paul Allen phát triển để chạy trên máy tính cá nhân IBM,
 với giao diện hoàn toàn bằng văn bản và các lệnh người dùng giản đơn.
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image1.jpeg){width="7.638888888888889in"
-height="4.861111111111111in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image1.jpeg)\
 Hình 1: Hệ điều hành đầu tiên của Microsoft - PC-DOS 1.0
 
 Những cải tiến tiếp tục được thực hiện, IBM đã liên hệ với công ty
@@ -79,8 +78,7 @@ DOS. Với quan điểm đó, Microsoft đã bắt tay vào thực hiện phiên
 đầu của Windows vào năm 1983, và sản phẩm cuối cùng được phát hành ra
 thị trường vào tháng 11 năm 1985.
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image2.jpeg){width="7.638888888888889in"
-height="4.263888888888889in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image2.jpeg)\
 Hình 2: Phiên bản đầu tiên của Windows - Windows 1.0
 
 Windows ban đầu được gọi là *Interface Manager*, và không có gì ngoài
@@ -111,8 +109,7 @@ bản được cải tiến dựa trên phiên bản Windows 1.0. Phiên bản m
 bổ sung thêm các cửa sổ có khả năng xếp chồng nhau và cho phép tối thiểu
 hóa các cửa sổ để chuyển qua lại trong desktop bằng chuột.
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image3.jpeg){width="7.638888888888889in"
-height="5.833333333333333in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image3.jpeg)\
 Hình 3: Các cửa sổ xếp chồng của Windows 2.0
 
 Trong phiên bản này, Windows 2.0 đã có trong nó các ứng dụng Word và
@@ -134,8 +131,7 @@ bán được khoảng 10 triệu copy trong hai năm trước khi nâng cấp l
 công với Macintosh của Apple, thế giới máy tính cá nhân đã sẵn sàng cho
 một hệ điều hành đa nhiệm cùng với giao diện đồ họa người dùng.
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image4.jpeg){width="7.638888888888889in"
-height="5.833333333333333in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image4.jpeg)\
 Hình 4: Phiên bản Windows 3.0
 
 Windows 3.0 là một cải thiện lớn so với các phiên bản trước đây. Giao
@@ -163,8 +159,7 @@ Windows trở thành một nền tảng quan trọng cho các máy desktop. Mộ
 mới nữa trong Windows 3.1 là bộ bảo vệ màn hình (screensaver) và hoạt
 động kéo và thả.
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image5.jpeg){width="7.638888888888889in"
-height="5.833333333333333in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image5.jpeg)\
 Hình 5: Các font TrueType của Windows 3.1
 
 **Windows cho các nhóm làm việc (Workgroup)**
@@ -176,8 +171,7 @@ thêm các driver và các giao thức cần thiết (TCP/IP) cho việc kết n
 mạng ngang hàng. Đây chính là phiên bản WFW của Windows thích hợp với
 môi trường công ty.
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image6.jpeg){width="7.638888888888889in"
-height="5.833333333333333in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image6.jpeg)\
 Hình 6: Windows cho các nhóm làm việc – phiên bản kết nối đầu tiên của
 Windows
 
@@ -196,8 +190,7 @@ WFW mà thay vì đó nó là một hệ điều hành 32-bit đúng nghĩa đư
 cho các tổ chức có kết nối mạng. (Các phiên bản khách hàng vẫn được duy
 trì ở các hệ điều hành 16-bit).
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image7.jpeg){width="7.638888888888889in"
-height="5.833333333333333in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image7.jpeg)\
 Hình 7: Windows NT – phiên bản Windows 32-bit đầu tiên dành cho sử dụng
 trong khối doanh nghiệp
 
@@ -223,8 +216,7 @@ Quay trở lại với hướng khách hàng, Microsoft đã sẵn sàng một p
 mới vào tháng 8 năm 1995. Phiên bản Windows 95 này có lẽ là phát hành
 lớn nhất trong số các phát hành Windows.
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image8.jpeg){width="7.638888888888889in"
-height="5.833333333333333in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image8.jpeg)\
 Hình 8: Windows 95 – phát hành Windows lớn nhất chưa từng có
 
 Có thể khá khó khăn để hình dung lại sau 15 năm, nhưng phát hành Windows
@@ -284,8 +276,7 @@ Windows Me, Windows 2000 là một nâng cấp thành công cho khối doanh
 nghiệp của Microsoft. Kế vị ngay sau Windows NT, Windows 2000 là một sự
 tiến hóa từ nền tảng cơ bản NT, và vẫn nhắm đến thị trường doanh nghiệp.
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image9.jpeg){width="7.638888888888889in"
-height="5.833333333333333in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image9.jpeg)\
 Hình 9: Windows 2000 – kẻ kế nhiệm cho Windows NT cho thị trường doanh
 nghiệp
 
@@ -307,8 +298,7 @@ lại. Về bản chất có thể cho rằng XP là kết hợp giao diện c�
 95/98/Me vào NT/2000 core, bỏ qua cơ sở mã DOS đã xuất hiện trong các
 phiên bản khách hàng trước của Windows.
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image10.jpeg){width="7.638888888888889in"
-height="4.875in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image10.jpeg)\
 Hình 10: Giao diện thân thiện hơn của Windows XP
 
 Với Windows XP, Microsoft đã bắt đầu phân khúc thị trường bằng một số
@@ -333,8 +323,7 @@ những người dùng khác.
 năng của XP và bổ sung thêm sự bảo mật và độ tin cậy, chức năng truyền
 thông số được cải thiện và giao diện đồ họa người dùng Aero 3D đẹp mắt.
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image11.jpeg){width="7.638888888888889in"
-height="4.875in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image11.jpeg)\
 Hình 11: Giao diện Aero của Windows Vista
 
 Chúng ta hãy bắt đầu với giao diện, để chạy được giao diện nâng cao này
@@ -379,8 +368,7 @@ Thay vì đó chúng ta có thể nghĩ về Windows 7 với Windows Vista giố
 mối quan hệ của Windows 98 với Windows 95. Nó chỉ là một phát hành thứ
 yếu, giống một gói dịch vụ hơn là một nâng cấp quy mô lớn.
 
-![](tham-khao---lich-su-phat-trien-windows-media/media/image12.jpeg){width="7.638888888888889in"
-height="4.861111111111111in"}\
+![](tham-khao---lich-su-phat-trien-windows-media/media/image12.jpeg)\
 Hình 12: Taskbar mới trong Windows 7
 
 Vậy có những gì thay đổi trong Windows 7? Đầu tiên, phát hành này sẽ

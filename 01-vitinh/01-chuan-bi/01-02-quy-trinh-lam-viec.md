@@ -15,9 +15,9 @@ hàng; kiểm tra tổng thể một lần trước khi kết luận.
 khi tiếp tục kiểm tra.
 
 - Từ khi tiếp nhận đến khi có phiếu dịch vụ trả lời chậm nhất
-sau 1tiếng.
+sau 1 tiếng.
 
-- Quy trình thực hiện việc kiểm tra : áp dụng quy trình *sửa chữa
+- Quy trình thực hiện việc kiểm tra: áp dụng quy trình *sửa chữa
 phần cứng, sửa chữa phần mềm* để xử lý.
 
 - Trong quá trình xử lý máy cần hỏi thêm ý kiến khách hàng về dữ liệu
@@ -52,7 +52,7 @@ thận, ghi rõ nội dung bảo hành hoặc sữa chữa lên phiếu dán tr�
 máy và phiếu dịch vụ rồi mang ra kho trả.
 
 - Từ khi tiếp nhận đến khi có phiếu dịch vụ trả lời chậm nhất
-sau 1tiếng.
+sau 1 tiếng.
 
 - Những thiết bị bảo hành về, sữa chữa mà vẫn bị lỗi thì chyển lại cho
 bộ phận điện tử hoặc bảo hành (ghi rõ tình trạng lỗi, tên kỹ thuật
@@ -132,3 +132,4 @@ khi về đến công ty.
 13. Nếu vì bất cứ lý do gì mà chưa hoàn thành công việc được giao thì về
 công ty phải báo ngay với người điều hành và bộ phận tổng đài để
 theo dõi.
+

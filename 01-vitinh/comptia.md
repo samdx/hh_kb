@@ -1,4 +1,4 @@
-# CompTIA
+## CompTIA
 
 1. Pc hardware
 2. Networking

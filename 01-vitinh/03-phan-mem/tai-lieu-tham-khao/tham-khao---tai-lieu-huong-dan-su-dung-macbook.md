@@ -4,45 +4,45 @@ Lời nói Đầu 1
 
 I. Phần I - Làm quen với MacOS Leopard 10.5 3
 
-> 01./ Finder\
-> 02./ Dock\
-> 03./ Top menu\
-> 04./ Video hướng dẫn
+ 01./ Finder
+ 02./ Dock
+ 03./ Top menu
+ 04./ Video hướng dẫn
 
-II\. Phần II – System Preferences – chỉnh cấu hình hệ thống 10
+II. Phần II – System Preferences – chỉnh cấu hình hệ thống 10
 
-> 01./ Desktop & Screen Saver - Chỉnh hình nền và bảo vệ màn hình\
-> 02./ DOCK\
-> 03./ Expóse & Spaces\
-> 04./ International\
-> 05./ Security - Thiết lập cấu hình để bảo mật dữ liệu\
-> 06./ Display - Chỉnh màu màn hình cho trong hơn\
-> 07./ Energy Saver - thiết lập về chế độ sử dụng pin để pin được tốt
-> hơn\
-> 08./ Keyboard & Mouse\
-> 09./ Trackpad\
-> 10./ Accounts\
-> 11./ Universal Access
+ 01./ Desktop & Screen Saver - Chỉnh hình nền và bảo vệ màn hình
+ 02./ DOCK
+ 03./ Expóse & Spaces
+ 04./ International
+ 05./ Security - Thiết lập cấu hình để bảo mật dữ liệu
+ 06./ Display - Chỉnh màu màn hình cho trong hơn
+ 07./ Energy Saver - thiết lập về chế độ sử dụng pin để pin được tốt
+ hơn
+ 08./ Keyboard & Mouse
+ 09./ Trackpad
+ 10./ Accounts
+ 11./ Universal Access
 
-III\. Phần III – Những phần mềm tiện ích cơ bản cho mac 20
+III. Phần III – Những phần mềm tiện ích cơ bản cho mac 20
 
-> 01./ Âm Lịch 4.5 - Lịch Vạn Niên cho Mac OS X\
-> 02./ Font và bộ gõ tiếng Việt\
-> 03./ Từ điển E - V - E\
-> 04./ Office - Văn Phòng\
-> 05./ Nghe nhạc, xem film\
-> 06./ Duyệt ảnh\
-> 07./ Chuyển đổi các định dạng ảnh, nhạc, phim\
-> 08./ Internet\
-> 09./ Các phần mềm tiện ích khác
+ 01./ Âm Lịch 4.5 - Lịch Vạn Niên cho Mac OS X
+ 02./ Font và bộ gõ tiếng Việt
+ 03./ Từ điển E - V - E
+ 04./ Office - Văn Phòng
+ 05./ Nghe nhạc, xem film
+ 06./ Duyệt ảnh
+ 07./ Chuyển đổi các định dạng ảnh, nhạc, phim
+ 08./ Internet
+ 09./ Các phần mềm tiện ích khác
 
-IV\. Phần IV - Windows trên Apple - Bootcamp vs Parallel 37
+IV. Phần IV - Windows trên Apple - Bootcamp vs Parallel 37
 
-> 01./ Lưu ý chung\
-> 02./ Bootcamp\
-> 03./ Parallel
->
-> 04./ Cách khởi động vào window thông qua bootcam
+ 01./ Lưu ý chung
+ 02./ Bootcamp
+ 03./ Parallel
+
+ 04./ Cách khởi động vào window thông qua bootcam
 
 V. Phần V – Một số thủ thuật nhỏ khi sử dụng Mac OS 52
 
@@ -55,13 +55,13 @@ V. Phần V – Một số thủ thuật nhỏ khi sử dụng Mac OS 52
 Phần I - Làm quen với MacOS Leopard 10.5
 ========================================
 
-1.  ***Finder***\
+1.  ***Finder***
     - Có một phần mềm luôn luôn chạy cùng với MAC OS đó là Finder, đây
     chính là phần mềm cơ bản nhất của Mac OS. Finder có chức năng quản
     lí files, Folders, quản lí các công việc, thao tác... Desktop cũng
     chính là một phần của Finder. Ngoài màn hình Desktop có hai phần qua
-    trọng đó là Dock và Top menu.\
-    \
+    trọng đó là Dock và Top menu.
+    
     - Khi ta mở một cửa sổ thư mục ra thì đó cũng chính là Finder
 
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image1.jpeg)
@@ -69,8 +69,8 @@ Phần I - Làm quen với MacOS Leopard 10.5
 - Phía bên trái của cửa sổ là Sidebar, nơi hiển thị các thông tin:
 Devices (ổ cứng, hdd box, usb, hay cd - dvd), Places (là nơi chứa các
 Alias đến các thư mục trong ổ cứng, ta có thể khéo thả các thư mục vào
-khu vực này cũng giống như làm với Dock)....\
-\
+khu vực này cũng giống như làm với Dock)....
+
 - Ta có thể cho hiện đường dẫn của File (Folder) - tại thanh bar phía
 dưới - bằng cách: *vào menu View -&gt; chọn Show Path Bar*. Đây là kết
 quả:
@@ -99,8 +99,8 @@ thứ. Ta có thể chỉnh hiện hoặc không hiện các thành phần trong
 - Để coi thông tin của file (hay Folder) thì ta kick chuột phải vào file
 (folder) và chọn **Get Info** . Hoặc cũng có thể kick vào file (folder)
 đó và nhấn **Command + I**. Để coi thông tin của nhiều File (Folder) một
-lúc thì nhấn thêm **alt** (alt + command + I)\
-\
+lúc thì nhấn thêm **alt** (alt + command + I)
+
 - Ngoài finder mặc định, bạn có thể dùng phần mềm của hãng thứ 3 để quản
 lý file. Điển hình như *Path Finder* (có nhiều chức năng khá hay, bạn
 nên dùng)
@@ -116,14 +116,14 @@ hiện lên trên Dock.
 
 - Ta có thể xóa các Alias này ra khỏi Dock (khi đó phần mềm vẫn có trong
 thư mục Application, không bị mất đi) bằng cách nhấn giữ và kéo alias đó
-ra khỏi Dock\
-\
-- Nếu phía dưới alias có chấm sáng có nghĩa là phần mềm đó đang chạy.\
-\
+ra khỏi Dock
+
+- Nếu phía dưới alias có chấm sáng có nghĩa là phần mềm đó đang chạy.
+
 - Từ phiên bản MacOS 10.5 Leopard trở đi trên Dock chúng ta có thêm các
 Stack (mặc định có sẵn 2stack phía bên trái thùng rác). Stack là alias
 link đến một thư mục nào đó, ta có thể thêm hoặc bớt các stack (thao tác
-giống như alias của phần mềm vào Dock)\
+giống như alias của phần mềm vào Dock)
 Vd: kéo thư mục Application vào Dock ta có thêm stack Application
 
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image6.jpeg)
@@ -133,7 +133,7 @@ các thông số của stack
 
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image7.jpeg)
 
-1.  ***Top Menu\
+1.  ***Top Menu
     * 3.1 Phía bên trái của Top Menu**
 
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image8.png)
@@ -165,16 +165,16 @@ trọng nhất là truy cập được vào Preferences của phần mềm đó.
 biệt khác win đó là các phần mềm đang chạy, dù đang ở vị trí nào trên
 màn hình thì menu cuả n1o cũng hiện ở trên Top menu này (khi ta chọn một
 phần mềm nào đó thì đồng thời menu của nó cũng hiện hiện Top menu ở vị
-trí này)\
-\
+trí này)
+
 ***3.2* Phía bên phải của Top Menu**
 
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image12.png)
 
-- Ngoài cùng phía bên phải chính là Spotlight - chiếc kính lúp kỳ diệu.\
+- Ngoài cùng phía bên phải chính là Spotlight - chiếc kính lúp kỳ diệu.
 - Các icon từ phải qua trái lần lượt là: Spotlight, Date time, pin,
-volume, tắt mở wifi, tắt mở Bluetooth và cuối cùng là Time Machine.\
-\
+volume, tắt mở wifi, tắt mở Bluetooth và cuối cùng là Time Machine.
+
 - Ta có thể cài thêm iStat menus để thay thế cho các icon mặc định và
 thêm một số các tính năng khác như thông tin về nhiệt độ máy, thông tin
 ram, tốc độ quạt
@@ -193,7 +193,7 @@ thích của mình.*
 Để vào System Preferences ta vào biểu tượng System Preferences trên DOCK
 hoặc vào quả táo (góc trái bên trên) và chọn System Preferences.
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image14.jpeg)\
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image14.jpeg)
 *Biểu tượng System Preferences trên DOCK*
 
 ***Cụ thể như sau:***
@@ -301,10 +301,10 @@ cho phù hơp với mình nhất.
     bên Windows Vista. Hiện đã có hàng ngàn ứng dụng nhỏ khác nhau cho
     Dashboard .
 
-> **3.2/ Spaces:** Kích hoạt chức năng Spaces trên Leopard sẽ giúp bạn
-> có nhiều không gian làm việc hơn. Bạn có thể thêm 1 hoặc 15 màn hình
-> ảo khác. Bạn có thể dùng phím tắt hoặc chuột để truy cập nhanh chóng
-> đến các màn hình ảo này để làm việc.
+ **3.2/ Spaces:** Kích hoạt chức năng Spaces trên Leopard sẽ giúp bạn
+ có nhiều không gian làm việc hơn. Bạn có thể thêm 1 hoặc 15 màn hình
+ ảo khác. Bạn có thể dùng phím tắt hoặc chuột để truy cập nhanh chóng
+ đến các màn hình ảo này để làm việc.
 
 -   **Kích hoạt Spaces**: Đánh dấu vào ô Enable Spaces. Ta có thể chọn ô
     Show Spaces in menu bar để truy cập nhanh các màn hình ảo từ thanh
@@ -451,8 +451,8 @@ Phần III – Những phần mềm tiện ích cơ bản cho mac
 
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image24.png)
 
-***\
-2./ Font và bộ gõ tiếng Việt***\
+***
+2./ Font và bộ gõ tiếng Việt***
 ***2.1/ Font tiếng Việt: ***
 
 -   Bạn sẽ phải tải bộ Font Tiếng Việt cho Apple và thường với bộ font
@@ -460,7 +460,7 @@ Phần III – Những phần mềm tiện ích cơ bản cho mac
     rơi vào trường hợp máy bạn vẫn bị lỗi font thì bạn có thể cài thêm
     bộ Microsoft Office 2008.
 
-> ***2.2/ Với bộ gõ tiếng Việt ta có vài sự lựa chọn:***
+ ***2.2/ Với bộ gõ tiếng Việt ta có vài sự lựa chọn:***
 
 -   *Bộ gõ tiếng Việt cho MAC OS X (2007-v2.0)*: Với bộ gõ này ta phải
     **bỏ dấu ngay sau nguyên âm**, không thể bỏ dấu tự do được. Nhưng
@@ -480,8 +480,8 @@ Phần III – Những phần mềm tiện ích cơ bản cho mac
 ***3./ Từ điển E - V - E:** Hiện nay đang có đến 3 bộ từ điển phổ biết
 nhất dành cho MacOS, bạn có thể dùng một hoặc có thể dùng tất cả cũng
 được vì thực ra những bộ từ điển này không gây ảnh hưởng đến tốc độ
-máy.*\
-\
+máy.*
+
 ***3.1/ Từ điển Anh - Việt miễn phí cho OSX ***
 
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image27.png)
@@ -516,8 +516,8 @@ máy.*\
 ***4./ Office - Văn Phòng:** Không thể thiếu đối với người dùng máy
 tính, các phần mềm văn phòng hiện nay rành cho MacOS cũng rất là đa
 dạng, từ free đến trả tiền đều có. Nhưng phổ biến nhất vẫn là Office
-2008 của Microsoft và iWork 2009 của Apple*\
-\
+2008 của Microsoft và iWork 2009 của Apple*
+
 ***4.1/ Microsoft Office 2008***
 
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image30.jpeg)
@@ -563,19 +563,19 @@ thêm một trong những phần mềm sau ( tùy theo nhu cầu của mỗi ng�
 
 -   **Xee và ImageViewerCMPlugIn:** nhỏ, đơn giản nhưng tiện dụng
 
-**Xee (đơn giản, dễ dùng, miễn phí)**\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image33.png)\
-\
-**ImageViewerCMPlugIn: mạnh mẽ nhưng phải trả tiền**\
+**Xee (đơn giản, dễ dùng, miễn phí)**
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image33.png)
+
+**ImageViewerCMPlugIn: mạnh mẽ nhưng phải trả tiền**
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image34.jpeg)
 
 -   **Picasa và iPhoto:** chuyên nghiệp và mạnh mẽ
 
 **Picasa: miễn phí nhưng đầy đủ các công cụ để quản lý và chỉnh sửa
-ảnh**\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image35.jpeg)\
-\
-**iPhoto: phần mềm chuyên nghiệp có trả phí của Apple**\
+ảnh**
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image35.jpeg)
+
+**iPhoto: phần mềm chuyên nghiệp có trả phí của Apple**
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image36.jpeg)
 
 ***7./ Chuyển đổi các định dạng ảnh, nhạc, phim:** Chuyển đổi định dạng
@@ -624,7 +624,7 @@ dùng:*
 -   **StuffIt Expander**: Nén và giải nén trong MacOS
 
 -   **Split & Cocat**: Chia và gộp file, hỗ trợ các file định dạng
-    \*.001 ...
+    *.001 ...
 
 -   **TOAST**: Phần mềm ghi đĩa chuyên nghiệp.
 
@@ -735,34 +735,34 @@ trong forum nói đến rồi.*
 
 **I./ Run Windowns on you Mac:** ở đây mình tạo máy ảo mới dùng winXP.
 
-*Một thông báo xuất hiện, chọn **Continue***\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image43.png)\
-\
+*Một thông báo xuất hiện, chọn **Continue***
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image43.png)
+
 *Bước tiếp theo là chọn lựa cài từ CD hay file image, ở đây mình chọn
-cài từ file image*\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image44.png)\
-\
+cài từ file image*
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image44.png)
+
 *Tiếp theo là đặt tên user trong win và điền số đăng kí của bản win đang
-cài*\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image45.png)\
-\
-*Chọn giống như hình dưới và Create để tiếp tục*\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image46.png)\
-\
+cài*
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image45.png)
+
+*Chọn giống như hình dưới và Create để tiếp tục*
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image46.png)
+
 *Cuối cùng nhấn Start và ngồi đợi*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image47.png)\
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image47.png)
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image48.png)
 
 **II./ Import virtual machines:** sử dụng lại máy ảo đã có sẵn
 
-*Một cửa sổ mở ra yêu cầu bản **Open** đến file máy ảo đã có sẵn*\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image49.png)\
-\
-*Có thể chọn **Backup and convert** hoặc chọn **Convert** rồi **Yes***\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image50.png)\
-\
-*Tiếp tục **Yes** một lần nữa để tiến hành convert máy ảo*\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image51.png)\
+*Một cửa sổ mở ra yêu cầu bản **Open** đến file máy ảo đã có sẵn*
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image49.png)
+
+*Có thể chọn **Backup and convert** hoặc chọn **Convert** rồi **Yes***
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image50.png)
+
+*Tiếp tục **Yes** một lần nữa để tiến hành convert máy ảo*
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image51.png)
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image52.png)
 
 **III./ Start using Parallels Desktop:** đây là chức năng mình cho là ấn
@@ -771,19 +771,19 @@ cài sẵn windown qua bootcamp. Chỉ mất tầm 5p là parallel đã có th�
 dụng được. Đặc biệt hơn nữa là với những máy đã chia 3partition,
 parallel vẫn nhận ra được phân vùng chứa win và sử dụng nó.
 
-*Khi vừa chọn chức năng này thì có thông báo hiện ra, chờ vài phút*\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image53.png)\
-\
+*Khi vừa chọn chức năng này thì có thông báo hiện ra, chờ vài phút*
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image53.png)
+
 *Khi nào trên màn hình hiện ra như hình dưới là đã xong, thời gian thực
-hiện chưa tới 5p*\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image54.png)\
-\
+hiện chưa tới 5p*
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image54.png)
+
 *Khi **Start** máy ảo, một thông báo hiện ra đại ý là: chuột và bàn phím
-sẽ đơ vài phút, vui lòng chờ*\
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image55.png)\
-\
+sẽ đơ vài phút, vui lòng chờ*
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image55.png)
+
 *Nếu bạn bị treo ở màn wellcome thì cũng đừng nóng nhé, kiên nhẫn chờ*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image56.png)\
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image56.png)
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image57.png)
 
 -   Lưu ý là khi thiết lập cấu hình máy ảo, bạn chia cho máy ảo bao
@@ -817,24 +817,24 @@ sang window
 Phần V – Một số thủ thuật nhỏ khi sử dụng Mac OS
 ================================================
 
-**Hướng dẫn cài đặt:\
-**\
+**Hướng dẫn cài đặt:
+**
 1 - Tải từ điển về máy: Từ điển nặng 42MB có trong đĩa tặng trong buổi
 họp mặt hôm qua hoặc bạn có thể tải về từ đây: ***Mediafire*,**
 ***Rapidshare*.** Sau khi tải về máy bung nén ra ta có thư mục tên:
-**Tinhte\_anh-viet.dictionary**\
-\
-2 - Chép thư mục: **Tinhte\_anh-viet.dictionary** vào thư mục:
-HĐH:\\Library\\Dictionaries\\ *(hình 1)*\
-\
-3 - Chạy ứng dụng Dictionary (trong mục Application)\
-\
+**Tinhte_anh-viet.dictionary**
+
+2 - Chép thư mục: **Tinhte_anh-viet.dictionary** vào thư mục:
+HĐH:LibraryDictionaries *(hình 1)*
+
+3 - Chạy ứng dụng Dictionary (trong mục Application)
+
 4 - Tại ứng dụng Dictionary ta nhấn Command+, để vào Dictionary
-Preferences. Tại đây ta chọn từ điển Anh - Việt *(hình 2)*\
-\
+Preferences. Tại đây ta chọn từ điển Anh - Việt *(hình 2)*
+
 Giờ thì ta có thể tra từ điển từ ứng dụng từ điển có sẵn trong MAC,
-SpotLight, DashBoard và trự tiếp từ Preview.\
-\
+SpotLight, DashBoard và trự tiếp từ Preview.
+
 **Hình 1:**
 
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image60.png)
@@ -843,16 +843,16 @@ SpotLight, DashBoard và trự tiếp từ Preview.\
 
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image61.png)
 
-**\
-Để có thể tra từ điển từ trình duyệt ta làm thêm các bước sau:\
-**\
+**
+Để có thể tra từ điển từ trình duyệt ta làm thêm các bước sau:
+**
 1 - Tải ADD ON "Lookup in Dictionary" tại đây:
 *https://addons.mozilla.org/en-US/firefox/addon/7261*
 
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image62.png)
 
-**PHÁT ÂM**\
-\
+**PHÁT ÂM**
+
 Để bật tính năng phát âm một từ đã chọn (chọn một từ và bắt Mac phát âm)
 ta vào **System Preferences**, chọn **Speech**, bấm thẻ **Text to
 Speech**, chọn "**Speak selected text when the key is pressed**", bấm
@@ -866,13 +866,13 @@ Command+Control+S
 **Phần 1: các file .app, .dmg**
 
 1./ Những file .app thường sẽ bị ẩn phần mở rộng đi, do đó chúng ta sẽ
-không thấy ".app" đằng sau mỗi file.\
+không thấy ".app" đằng sau mỗi file.
 Vd trong hình: **Adobe Reader v8 (bo cai), Chmox v3.0** là những file có
-phần mở rộng là .app\
+phần mở rộng là .app
 -&gt;Đối với các file có đuôi là .app thì chúng ta chép thẳng vào thư
-mục Applications và chạy luôn, không cần phải cài đặt.\
-\
-2./ Đối với những file .dmg: kick đúp và tiến hành cài đặt.\
+mục Applications và chạy luôn, không cần phải cài đặt.
+
+2./ Đối với những file .dmg: kick đúp và tiến hành cài đặt.
 Vd trong hình: kick đúp vào file **Firefox 2.0.0.8.dmg**, một ổ đĩa sẽ
 được tạo ra
 
@@ -883,8 +883,8 @@ eject cái ổ đĩa vừa mới được tạo ra.
 
 **Những thủ thuật nhanh với Mac**
 
-Một số phím tắt trong hệ điều hành MAC\
-\
+Một số phím tắt trong hệ điều hành MAC
+
 1.
 
 -   Cmd + C = copy
@@ -920,34 +920,34 @@ Một số phím tắt trong hệ điều hành MAC\
 
 -   Opt + Cmd + kéo thả file = tạo 1 alias
 
-5\. Delete với Mac xách tay.
+5. Delete với Mac xách tay.
 
 -   Fn + delele = **delete** (phím delete của Windows, sử dụng trên
     Bootcamp được luôn)
 
-6\. Bookmarks.
+6. Bookmarks.
 
 -   Với bạn nào có thói quen mở nhiều trang web yêu thích cùng 1 lúc,
-    cách này giúp bạn không phải gõ tât cả nhưng trang web đó nữa.\
+    cách này giúp bạn không phải gõ tât cả nhưng trang web đó nữa.
     Mở tất cả những trang web đấy trên cùng 1 của sổ safari( nhiều tab)
     : click bookmarks =&gt; Add bookmarks for these .... folders. sau đó
     có thể đặt tên cho dễ nhớ. Để mở bookmark này, chọn Bookmarks , Chọn
     tên đã đặt, chon từng web, hoặc chọn tất cả Open in Tabs.
 
-7\. Cách đơn giản để tạo file PDFs.
+7. Cách đơn giản để tạo file PDFs.
 
 -   Ở bất cứ apps nào ( vd : pages , safari....) : File =&gt; print ( mở
     của sổ print) =&gt; click PDF ( pop ra cửa sổ chọn các hình thức lưu
     file PDF )
 
-8\. Mở hoăc xem file khác mà không ngắt quãng bài keynote đang trình
+8. Mở hoăc xem file khác mà không ngắt quãng bài keynote đang trình
 chiếu:
 
 -   Click H ( hide application ) và chọn bất cứ apps nào cần mở. Muốn
     quay lại keynote trên màn hình máy tính của mình chỉ cần click vào
     biểu tượng keynote trên dock.
 
-9\. Resize ảnh ngay trong Mail.\
+9. Resize ảnh ngay trong Mail.
 Nhiều khi muốn gưi ảnh cho ai đó, b ức ảnh của mình thì dung lượng quá
 lớn mà ta lại chưa có hoăc không biết sử dụng app chỉnh sửa ảnh ? Quá
 đơn giản :
@@ -955,7 +955,7 @@ lớn mà ta lại chưa có hoăc không biết sử dụng app chỉnh sửa �
 -   Kéo thả ảnh vào trong cửa sổ compose của Mail. Lúc này chỉ cần click
     Image size ở góc bên phải dưới của cửa sổ compose.
 
-10\. Làm việc nhanh hơn với safari.\
+10. Làm việc nhanh hơn với safari.
 Trong cửa sổ Safari:
 
 -   Cmd + L = bôi đen address bar ( lúc em chưa biết toàn phải kéo chuột
@@ -969,8 +969,8 @@ Trong cửa sổ Safari:
 **Chỉ là những phím tắt đơn giản, nhưng cũng rất hữu dụng trong nhiều
 trường hợp. Bạn nên biết qua, ít nhất sẽ có một lần phải dùng. Tất cả
 những phím tắt này đều thực hiện khi vừa bật máy. Hãy chắc chắn là máy
-bạn đã tắt hẳn khi bạn muốn dùng.**\
-\
+bạn đã tắt hẳn khi bạn muốn dùng.**
+
 Thao tác thực hiện là: *tắt máy -&gt; nhấn giữ phím tắt, trong lúc đó
 nhấn power để mở máy, vẫn nhấn giữ phím tắt cho đến khi nó có hiệu lực*.
 Khi mình nói *Command-S* có nghĩa là nhấn *giữ đồng thời 2 phím command
@@ -992,25 +992,25 @@ và S*.
 
 Bác vào System Preferences. Chọn Sharing trong phần Internet & Network.
 Bác muốn share files và máy in với windows thì tick chọn Windows Sharing
-và Printer Sharing.\
+và Printer Sharing.
 ![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image65.jpeg)
 
 **Sau đây là 3 cách dùng tổ hợp phím để chụp màn hình và lưu nhanh thành
-file ảnh .png vào Desktop:\
-**\
-1. **Chụp nguyên màn hình\
-Command + Shift + 3,** rồi buông ra.\
-\
-2. **Chụp một vùng trên màn hình\
-Command + Shift + 4** , sau đó vẽ một hình chữ nhật khu vực cần chụp.\
-\
+file ảnh .png vào Desktop:
+**
+1. **Chụp nguyên màn hình
+Command + Shift + 3,** rồi buông ra.
+
+2. **Chụp một vùng trên màn hình
+Command + Shift + 4** , sau đó vẽ một hình chữ nhật khu vực cần chụp.
+
 **3. Chụp một thành phần giao diện (không dính nền, đẹp, chỉ dành cho
-Leopard)**\
+Leopard)**
 Giữ **Command + Shift + 4**, trong khi giữ 3 phím đó, ta nhấn thêm phím
 **Spacer ba**r (thanh dài), con chuột sẽ biến thành hình Camera, ta di
-chuyển đến thành phần nào (thí dụ cửa sổ, menu, icon, ...) thì sẽ chụp\
-thành phần đó và lưu lại thành file.\
-\
+chuyển đến thành phần nào (thí dụ cửa sổ, menu, icon, ...) thì sẽ chụp
+thành phần đó và lưu lại thành file.
+
 Thí dụ ta có thể chụp hình chiếc máy tính (Widget) như thế này mà không
 dính nền, không dính Wallpaper bằng cách thứ 3:
 

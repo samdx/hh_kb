@@ -28,3 +28,4 @@ xác nhận lên trên phiếu.
 làm việc của mình. hết buổi làm việc không được để máy ở trên bàn mà
 phải có tình trạng của máy đó. chuyển vào các kho tương ứng.
 - Không tự ý vào kho để mượn hàng (nhân viên thử việc, học việc)
+

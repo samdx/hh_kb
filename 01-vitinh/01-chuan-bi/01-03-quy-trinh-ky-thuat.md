@@ -3,9 +3,9 @@
 Một thiết bị nhận vào sẽ thuộc vào một hoặc trong nhiều lỗi trên, căn cứ
 vào từng lỗi mà áp dụng quy trình xử lý.
 
-### Quy trình xử lý phần mềm 
+### Quy trình xử lý phần mềm
 
-![](media/image2.jpeg)
+![](media/image2.png)
 
 1. Nắm rõ và đọc kỹ các yêu cầu của khách hàng bao gồm dữ liệu, các
 phần mềm khách hàng đang sử dụng, driver của các thiết bị ngoại vi.

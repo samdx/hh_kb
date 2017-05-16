@@ -60,3 +60,4 @@ Máy in 600 DPI  |  |
 HDD 7200 RPM|  |
 Máy ảnh 5 MP|  |
 Màn hình 800x600|  |
+
