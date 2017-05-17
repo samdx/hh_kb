@@ -22,8 +22,8 @@ mainboard sẽ sử dụng. Mọi quyết định khác đều dựa theo lựa 
 - Mainboard thường có cấu tạo 4 lớp trừ Main dành cho Server có cấu
 tạo 6 lớp.
 
-![](02-02-bo-mach-chu-media/media/image2.jpeg)
-![](02-02-bo-mach-chu-media/media/image3.png)
+![](02-02-bo-mach-chu-media/image2.png)
+![](02-02-bo-mach-chu-media/image3.png)
 
 Bo mạch chủ được phân thành 2 loại
 
@@ -134,7 +134,7 @@ Hiện mới có 4 loại kích cỡ theo chuẩn mới BTX đều cùng dài 26
 
 + picoBTX: có kích thước 8”x 10.5” (20.32cm x 26.67cm)
 
-![](02-02-bo-mach-chu-media/media/image4.jpeg)
+![](02-02-bo-mach-chu-media/image4.png)
 
 Các Bạn có thể tham khảo thêm tại: <http://www.formfactors.org/>
 
@@ -145,9 +145,9 @@ kiện điện tử khác nhau. Có thể chia làm các nhóm: khe mở rộng,
 các chip điện tử, khe cắm bộ nhớ, các connectors, jumpers và đế cắm vi
 xử lý.
 
-![](02-02-bo-mach-chu-media/media/image5.jpeg)
+![](02-02-bo-mach-chu-media/image5.png)
 
-![](02-02-bo-mach-chu-media/media/image6.png)
+![](02-02-bo-mach-chu-media/image6.png)
 
 - Chipsets
 
@@ -226,7 +226,7 @@ nối trực tiếp với CPU. Đúng hơn là chip cầu bắc kết nối chip
 với CPU. Chipset nam nhiệm vụ quản lý các cổng kết nối chậm như :
 Audio, USB, PCI…
 
-![](02-02-bo-mach-chu-media/media/image7.jpeg)
+![](02-02-bo-mach-chu-media/image7.png)
 
 Khe Cắm Mở rộng (Expansion Slots)
 
@@ -260,11 +260,11 @@ kết nối mạng (Modem), thiết bị xem truyền hình (TV Card)....
 - Thông số kỹ thuật: hoạt động ở tần số 33Mhz, 66Mhz, 133Mhz với các
 đường truyền dữ liệu có băng thông 32bit/ 64bit.
 
-![](02-02-bo-mach-chu-media/media/image8.png)
+![](02-02-bo-mach-chu-media/image8.png)
 
-![](02-02-bo-mach-chu-media/media/image9.png)
+![](02-02-bo-mach-chu-media/image9.png)
 
-![](02-02-bo-mach-chu-media/media/image10.png)
+![](02-02-bo-mach-chu-media/image10.png)
 
 Khe cắm PCI-X
 
@@ -302,7 +302,7 @@ AGP, PCI... 2.5Gb/s chuẩn 1X (250MB/s) và 5.0Gb/s chuẩn 16X (1X
 hiện thêm phiên bản 4.0 ( các bạn có thể tham khảo so sánh ở bảng
 tổng kết sau này)
 
-![](02-02-bo-mach-chu-media/media/image11.jpeg)
+![](02-02-bo-mach-chu-media/image11.png)
 
 Khe cắm AGP:
 
@@ -313,7 +313,7 @@ PCI Express.
 - Thông số kỹ thuật: chuẩn AGP đầu tiên là AGP 1X tốc độ truyền
 266MB/s và được phát triển lên AGP 2X, 4X, 8X.
 
-![](02-02-bo-mach-chu-media/media/image12.png)
+![](02-02-bo-mach-chu-media/image12.png)
 
 Khe cắm AMR:
 
@@ -322,8 +322,8 @@ trên Mainboard.
 
 - chỉ tồn tại trong các máy tính cũ
 
-![](02-02-bo-mach-chu-media/media/image13.jpeg)
-![](02-02-bo-mach-chu-media/media/image14.jpeg)
+![](02-02-bo-mach-chu-media/image13.png)
+![](02-02-bo-mach-chu-media/image14.png)
 
 Khe cắm CNR:
 
@@ -333,7 +333,7 @@ trên Mainboard.
 - chỉ tồn tại trong các máy tính cũ. ( sự xuất hiện của khe cắm CNR và
 AMR mục đích làm giảm giá thành)
 
-![](02-02-bo-mach-chu-media/media/image15.jpeg)
+![](02-02-bo-mach-chu-media/image15.png)
 
 Khe cắm bộ nhớ RAM
 
@@ -352,8 +352,8 @@ RIMM (Rambus Inline Memory Modules)
 
 SoDIMM (Small Outline Dual Inline Memory Modules)
 
-![](02-02-bo-mach-chu-media/media/image16.png)
-![](02-02-bo-mach-chu-media/media/image16.png)
+![](02-02-bo-mach-chu-media/image16.png)
+![](02-02-bo-mach-chu-media/image16.png)
 
 SIMM (Single In-Line Memory Module)
 
@@ -399,7 +399,7 @@ notebook)
 (SO RIMM) và truyền data mỗi lần 16bit (thế hệ củ chỉ có 8bits
 mà thôi)
 
-![](02-02-bo-mach-chu-media/media/image17.png)
+![](02-02-bo-mach-chu-media/image17.png)
 
 Bộ nhớ Cache
 
@@ -446,33 +446,33 @@ CPU AMD Athlon,...)
   FM2   90431x31 LGA  A4, A6, A8, A10 Sept. 2012
   --------------- --------------------- ------ -------------- --------------------------------------------------------------------------- ------------
 
-![](02-02-bo-mach-chu-media/media/image18.jpeg)
+![](02-02-bo-mach-chu-media/image18.png)
 
-![](02-02-bo-mach-chu-media/media/image19.jpeg)
+![](02-02-bo-mach-chu-media/image19.png)
 
-![](02-02-bo-mach-chu-media/media/image20.jpeg)
+![](02-02-bo-mach-chu-media/image20.png)
 
 Socket 775
 
-![](02-02-bo-mach-chu-media/media/image21.jpeg)
+![](02-02-bo-mach-chu-media/image21.png)
 
 Socket 1156
 
-![](02-02-bo-mach-chu-media/media/image22.jpeg)
+![](02-02-bo-mach-chu-media/image22.png)
 
 Socket 1155
 
-![](02-02-bo-mach-chu-media/media/image23.jpeg)
+![](02-02-bo-mach-chu-media/image23.png)
 
 Socket 2011
 
 Giắc cắm nguồn
 
-![](02-02-bo-mach-chu-media/media/image24.jpeg)![](02-02-bo-mach-chu-media/media/image25.jpeg)Power
+![](02-02-bo-mach-chu-media/image24.png)![](02-02-bo-mach-chu-media/image25.png)Power
 Connectors: thành phần quan trọng dùng để cung cấp năng lượng cho tất cả
 các thiết bị trên mainboard.
 
-![](02-02-bo-mach-chu-media/media/image26.jpeg)
+![](02-02-bo-mach-chu-media/image26.png)
 
 AT ATX- 20 pin ATX -24 pin
 
@@ -480,17 +480,17 @@ Connector Port
 
 FDD (Floppy Disk Drive)
 
-![](02-02-bo-mach-chu-media/media/image27.jpeg)![](02-02-bo-mach-chu-media/media/image28.jpeg)
+![](02-02-bo-mach-chu-media/image27.png)![](02-02-bo-mach-chu-media/image28.png)
 
 IDE (Integrated Drive Electronics)
 
-![](02-02-bo-mach-chu-media/media/image29.jpeg)
-![](02-02-bo-mach-chu-media/media/image30.jpeg)
-![](02-02-bo-mach-chu-media/media/image31.jpeg)
+![](02-02-bo-mach-chu-media/image29.png)
+![](02-02-bo-mach-chu-media/image30.png)
+![](02-02-bo-mach-chu-media/image31.png)
 
 SATA (Serial ATA )
 
-![](02-02-bo-mach-chu-media/media/image32.jpeg)
+![](02-02-bo-mach-chu-media/image32.png)
 
 - Có thế mạnh về tốc độ, dung lượng, truyền tín hiệu xa hơn, an toàn
 hơn giúp SATA nhanh chóng thay thế giao diện Parallel ATA.
@@ -505,7 +505,7 @@ vòng/phút, số chân 50 hoặc 68. Chủ yếu được dùng cho các thiế
 như: ổ đĩa cứng, ổ đĩa quang, scanner… Thế mạnh của SCSI là khả năng
 kết nối liên tiếp (daisy-chain) 15 thiết bị khác nhau.
 
-![](02-02-bo-mach-chu-media/media/image33.png)
+![](02-02-bo-mach-chu-media/image33.png)
 
 Cổng tích hợp ( on-board) và bộ kết nối
 
@@ -517,7 +517,7 @@ hợp.đa số mainboard có nhiều hơn 2 cổng usb và cổng âm thanh. mai
 cũng có thể có cổng mạng, cổng modem, cổng firewire (IEEE1394), cổng
 video, bàn phím, chuột...
 
-![](02-02-bo-mach-chu-media/media/image34.jpeg)
+![](02-02-bo-mach-chu-media/image34.png)
 
 Jumper và DIP switch
 
@@ -527,11 +527,11 @@ vào những mạch hở tạo thành mạch kín để thực hiện một nhi�
 DIP Switches: là một dạng công tắc gạt dùng hiệu chỉnh tốc độ CPU, RAM…
 trên mainboard của các đời mainboard cũ Pentium II, III.
 
-![](02-02-bo-mach-chu-media/media/image35.jpeg)
-![](02-02-bo-mach-chu-media/media/image36.jpeg)
+![](02-02-bo-mach-chu-media/image35.png)
+![](02-02-bo-mach-chu-media/image36.png)
 
-![](02-02-bo-mach-chu-media/media/image37.jpeg)
-![](02-02-bo-mach-chu-media/media/image38.jpeg)
+![](02-02-bo-mach-chu-media/image37.png)
+![](02-02-bo-mach-chu-media/image38.png)
 
 Giới thiệu các công nghệ được tích hợp trên mainboard
 

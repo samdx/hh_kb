@@ -64,7 +64,7 @@ Phần I - Làm quen với MacOS Leopard 10.5
     
     - Khi ta mở một cửa sổ thư mục ra thì đó cũng chính là Finder
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image1.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image1.png)
 
 - Phía bên trái của cửa sổ là Sidebar, nơi hiển thị các thông tin:
 Devices (ổ cứng, hdd box, usb, hay cd - dvd), Places (là nơi chứa các
@@ -75,13 +75,13 @@ khu vực này cũng giống như làm với Dock)....
 dưới - bằng cách: *vào menu View -&gt; chọn Show Path Bar*. Đây là kết
 quả:
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image2.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image2.png)
 
 - Preference của Finder (phím tắt để truy cập là command + ,) cũng giống
 như Folders Option bên Win, trong Preference ta có thể tinh chỉnh nhiều
 thứ. Ta có thể chỉnh hiện hoặc không hiện các thành phần trong Sidebar.
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image3.jpeg)![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image4.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image3.png)![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image4.png)
 
 -   **Show these items on the Desktop**: hiện và không hiện các thành
     phần ngoài Desktop (bạn có thể ẩn các ổ cứng đi ...)
@@ -107,7 +107,7 @@ nên dùng)
 
 1.  ***Dock***
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image5.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image5.png)
 
 - Là nơi chứa các Alias (Shorcut) của các phần mềm chúng ta hay sử dụng.
 Alias của một phần mềm có thể để ngoài Desktop, hoặc gom chúng lại trên
@@ -126,20 +126,20 @@ link đến một thư mục nào đó, ta có thể thêm hoặc bớt các sta
 giống như alias của phần mềm vào Dock)
 Vd: kéo thư mục Application vào Dock ta có thêm stack Application
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image6.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image6.png)
 
 - Kích chuột phải vào một stack, có một menu hiện ra và ta có thể chỉnh
 các thông số của stack
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image7.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image7.png)
 
 1.  ***Top Menu
     * 3.1 Phía bên trái của Top Menu**
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image8.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image8.png)
 
 - Ở ngay đầu bên trái là icon trái táo cắn dở
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image9.png).
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image9.png).
 Logo này là cố định, dù bạn đang chạy phần mềm nào thì icon này cũng
 hiện ở đây. Và đây cũng là menu để truy cập nhanh vào các chức năng cần
 thiết của hệ điều hành. Một số chức năng qua trọng là:
@@ -152,14 +152,14 @@ thiết của hệ điều hành. Một số chức năng qua trọng là:
 -   **Force Quit**: tắt tất cả các phần mềm đang chạy (trong trường hợp
     phần mềm đó bị treo, không tắt bình thường được)
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image10.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image10.png)
 
 - Kế tiếp chính là tên phần mềm đang chạy và mình đang sử dụng. Khi
 click và tên phần mềm thì sẽ xuất hiện một menu (bất cứ phần mềm nào
 cũng có menu này). Chúng ta có thể coi thông tin về phần mềm này và quan
 trọng nhất là truy cập được vào Preferences của phần mềm đó.
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image11.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image11.png)
 
 - Phần còn lại chính là các menu của phần mềm. MacOS có một điểm đăc
 biệt khác win đó là các phần mềm đang chạy, dù đang ở vị trí nào trên
@@ -169,7 +169,7 @@ trí này)
 
 ***3.2* Phía bên phải của Top Menu**
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image12.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image12.png)
 
 - Ngoài cùng phía bên phải chính là Spotlight - chiếc kính lúp kỳ diệu.
 - Các icon từ phải qua trái lần lượt là: Spotlight, Date time, pin,
@@ -179,7 +179,7 @@ volume, tắt mở wifi, tắt mở Bluetooth và cuối cùng là Time Machine.
 thêm một số các tính năng khác như thông tin về nhiệt độ máy, thông tin
 ram, tốc độ quạt
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image13.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image13.png)
 
 Phần II – System Preferences – chỉnh cấu hình hệ thống
 ======================================================
@@ -193,7 +193,7 @@ thích của mình.*
 Để vào System Preferences ta vào biểu tượng System Preferences trên DOCK
 hoặc vào quả táo (góc trái bên trên) và chọn System Preferences.
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image14.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image14.png)
 *Biểu tượng System Preferences trên DOCK*
 
 ***Cụ thể như sau:***
@@ -222,7 +222,7 @@ hoặc vào quả táo (góc trái bên trên) và chọn System Preferences.
 
 ***1./ Desktop & Screen Saver - Chỉnh hình nền và bảo vệ màn hình***
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image15.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image15.png)
 
 -   **Thêm hình nền**: Bạn có thể thêm hình (hoặc thư mục chứa hình) vào
     danh sách bằng cách nhấn vào dấu +
@@ -242,7 +242,7 @@ hoặc khi ứng dụng đang chạy ta bấm chuột phải và chọn "Keep in
 gỡ bỏ ứng dụng ra khỏi Dock ta cầm và kéo ứng dụng ra khỏi Dock hoặc
 nhấn chuột phải và chọn Remove from Dock.*
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image16.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image16.png)
 
 -   **Kích thước (Size)**: Ta có thể thay đổi kích thước của DOCK đến
     tối đa khi DOCK chạm 2 cạnh ở 2 đầu. Khi có càng nhiều ứng dụng ở
@@ -276,7 +276,7 @@ trên Leopard. Một trong những đặc điểm nổi bật nhất của Leopa
 hệ điều hành khác không thể có được. Đây cũng là tính năng mà bạn sẽ
 dùng hàng ngày. *
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image17.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image17.png)
 
 **3.1/ Expóse:** Các các cửa sổ thể hiện trên màn hình. Để giúp việc
 chuyển đổi cửa sổ làm việc một cách hiệu quả bạn hãy thiết lập Expóse
@@ -328,7 +328,7 @@ của số, đồng hồ, ngày tháng trong tab Formats. Quan trọng nhất �
 này là Input Menu, tại đây ta có thể hoạt các bộ gõ có sẵn của mac để
 phục vụ nhu cầu của mình.*
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image18.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image18.png)
 
 -   **Tham khảo thêm bài viết**: *Tiếng Việt và bộ gõ tiếng Việt trên
     MAC OS X - Leopard*
@@ -372,7 +372,7 @@ cân chỉnh một chút mọi người sẽ có một màn hình trong hơn nhi
 ***7./ Energy Saver - thiết lập về chế độ sử dụng pin để pin được tốt
 hơn***
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image19.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image19.png)
 
 -   Ở mục này có thể chỉnh thời gian sử dụng máy, thời gian sleep, hoặc
     chọn cái có sẵn trong mục: Optimization
@@ -382,7 +382,7 @@ hơn***
 
 ***8./ Keyboard & Mouse: ***
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image20.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image20.png)
 
 -   **Mặc định của MacOS** là khi bạn nhấn F1, F2 ... thì nó không ra
     F1, F2 mà nó là phím chức năng, như chỉnh sáng tối, âm lượng, đèn
@@ -400,7 +400,7 @@ ngón để trượt, xoay, phóng to thu nhỏ và 3 ngón để qua bài, qua 
 Vào đây sẽ thấy và có thể bật lên, tùy vào máy của bạn và phiên bản hệ
 điều hành mà bạn sẽ thấy ít hay nhiều ngón:*
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image21.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image21.png)
 
 -   Vào **System Preferences**
 
@@ -417,7 +417,7 @@ Vào đây sẽ thấy và có thể bật lên, tùy vào máy của bạn và 
 
 ***10./ Accounts: ***
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image22.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image22.png)
 
 -   Phần này cần quan tâm đến nhất là tab Login Items. Khi thấy có quá
     nhiều phần mềm khởi động cùng máy, khiến quá trình khởi động bị chậm
@@ -425,7 +425,7 @@ Vào đây sẽ thấy và có thể bật lên, tùy vào máy của bạn và 
 
 ***11./ Universal Access: ***
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image23.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image23.png)
 
 -   **VoiceOver**: Khi bạn thấy tự nhiên cái máy bạn lại phát ra những
     tiếng nói khó hiểu (*thực ra là chức năng phát âm định hướng dành
@@ -449,7 +449,7 @@ Phần III – Những phần mềm tiện ích cơ bản cho mac
     đa dạng, tính toán chính xác và cung cấp cả thông tin về sự khác
     biệt giữa lịch Trung Quốc và Việt Nam.
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image24.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image24.png)
 
 ***
 2./ Font và bộ gõ tiếng Việt***
@@ -468,14 +468,14 @@ Phần III – Những phần mềm tiện ích cơ bản cho mac
     Ngoài ra bộ gõ này có cái hay là **có thể gõ được với font VNI và
     TCVN3**
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image25.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image25.png)
 
 -   Bộ gõ tiếng Việt có sẵn trong Leopard: Ta **có thể bỏ dấu tự do**
     nếu dùng bộ gõ này. Nhưng nó có nhược điểm là **phải enter 2lần
     (hoặc phải spacebar rồi enter)**. Bộ gõ này cũng có nhược điểm là
     **chỉ dùng với unicode**, bạn không gõ được với font VNI hay TCVN.
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image26.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image26.png)
 
 ***3./ Từ điển E - V - E:** Hiện nay đang có đến 3 bộ từ điển phổ biết
 nhất dành cho MacOS, bạn có thể dùng một hoặc có thể dùng tất cả cũng
@@ -484,7 +484,7 @@ máy.*
 
 ***3.1/ Từ điển Anh - Việt miễn phí cho OSX ***
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image27.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image27.png)
 
 -   Ưu điểm của bộ từ điển này là nhanh, có thể tra chéo trong các ứng
     dụng khác và đặc biệt là tra từ được ngay trong Spotlight. Việc cài
@@ -492,7 +492,7 @@ máy.*
 
 ***3.2/ Bộ từ điển Việt Anh Pháp Đức Nga NaUy Wordnet Máy Tính***
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image28.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image28.png)
 
 -   Tổng hợp rất nhiều từ điển cần thiết. Ưu điểm của nó là có thể chạy
     ngay không cần cài đặt. Tác giả là anh Hồ Ngọc Đức, và tất nhiên là
@@ -503,7 +503,7 @@ máy.*
 
 ***3.3/ TranslateIt!: bộ từ điển Anh, Pháp, Việt... phát âm cho MAC: ***
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image29.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image29.png)
 
 -   TranslateIT đầy đủ chức năng rất trong 3 bộ từ điển, ngoài ra nó có
     số lượng các bộ từ điển rất là phong phú, cập nhật thường xuyên.
@@ -520,7 +520,7 @@ dạng, từ free đến trả tiền đều có. Nhưng phổ biến nhất v�
 
 ***4.1/ Microsoft Office 2008***
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image30.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image30.png)
 
 -   Tương thích với office 2007 trên win, chuyển qua chuyển lại
     đơn giản. bao gồm các phần mềm Microsoft Word, PowerPoint, Excel,
@@ -528,7 +528,7 @@ dạng, từ free đến trả tiền đều có. Nhưng phổ biến nhất v�
 
 ***4.2/ iWork 09: ***
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image31.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image31.png)
 
 -   Bộ ứng dụng văn phòng phổ biến nhất trong cộng đồng MAC. Với các
     phần Pages tương ứng với MS Word, Number tương ứng với Excel và
@@ -544,7 +544,7 @@ sau là phổ biến, hỗ trợ cho công việc giải trí của bạn. Nếu
 hết những phần mềm này mà vào một số website vẫn không nghe nhạc được
 thì cũng đừng lo, chỉ là do web đó không tương thích với MacOS thôi.*
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image32.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image32.png)
 
 -   **Flip4mac:** Phần mềm được phát triển bởi Microsoft thay thế cho dự
     án Media player đã bị kết thúc.
@@ -564,19 +564,19 @@ thêm một trong những phần mềm sau ( tùy theo nhu cầu của mỗi ng�
 -   **Xee và ImageViewerCMPlugIn:** nhỏ, đơn giản nhưng tiện dụng
 
 **Xee (đơn giản, dễ dùng, miễn phí)**
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image33.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image33.png)
 
 **ImageViewerCMPlugIn: mạnh mẽ nhưng phải trả tiền**
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image34.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image34.png)
 
 -   **Picasa và iPhoto:** chuyên nghiệp và mạnh mẽ
 
 **Picasa: miễn phí nhưng đầy đủ các công cụ để quản lý và chỉnh sửa
 ảnh**
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image35.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image35.png)
 
 **iPhoto: phần mềm chuyên nghiệp có trả phí của Apple**
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image36.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image36.png)
 
 ***7./ Chuyển đổi các định dạng ảnh, nhạc, phim:** Chuyển đổi định dạng
 của các file nhạc, phim là nhu cầu thiết yếu của những người dùng máy
@@ -586,7 +586,7 @@ dùng:*
 -   ***iSkysoft iMedia Converter*** - chuyển đổi đa định dạng, chuyên
     nghiệp mà mạnh mẽ
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image37.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image37.png)
 
 -   ***Downsize*** - chỉnh kích thước, đóng khung, dán nhãn lên hình
 
@@ -598,15 +598,15 @@ dùng:*
     người sử dụng vì sự đơn giản và tiện dụng của nó. Ngoài ra Adium có
     giao diện đẹp, có thể custom được.
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image38.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image38.png)
 
 -   **Firefox:** hãy vào đây để biết lí do vì sao nên dùng Firefox nhé
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image39.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image39.png)
 
 -   **iGetter:** Phần mềm hỗ trợ download, tốc độ nhanh và "free"
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image40.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image40.png)
 
 -   **CyberDuck:** FTP cho MacOS
 
@@ -628,7 +628,7 @@ dùng:*
 
 -   **TOAST**: Phần mềm ghi đĩa chuyên nghiệp.
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image41.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image41.png)
 
 -   **EasyWMA** - Chuyển đổi định dạng nhạc, phim đơn giản, ít
     tùy chỉnh.
@@ -681,7 +681,7 @@ trong forum nói đến rồi.*
     duy nhất, nếu ổ đã bị chia ra làm 3 ổ trở lên thì bootcamp sẽ không
     dùng được.
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image42.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image42.png)
 
 -   Thứ tự để cài win và phân thêm một ổ data dùng chung tốt nhất lên
     là:
@@ -736,34 +736,34 @@ trong forum nói đến rồi.*
 **I./ Run Windowns on you Mac:** ở đây mình tạo máy ảo mới dùng winXP.
 
 *Một thông báo xuất hiện, chọn **Continue***
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image43.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image43.png)
 
 *Bước tiếp theo là chọn lựa cài từ CD hay file image, ở đây mình chọn
 cài từ file image*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image44.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image44.png)
 
 *Tiếp theo là đặt tên user trong win và điền số đăng kí của bản win đang
 cài*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image45.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image45.png)
 
 *Chọn giống như hình dưới và Create để tiếp tục*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image46.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image46.png)
 
 *Cuối cùng nhấn Start và ngồi đợi*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image47.png)
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image48.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image47.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image48.png)
 
 **II./ Import virtual machines:** sử dụng lại máy ảo đã có sẵn
 
 *Một cửa sổ mở ra yêu cầu bản **Open** đến file máy ảo đã có sẵn*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image49.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image49.png)
 
 *Có thể chọn **Backup and convert** hoặc chọn **Convert** rồi **Yes***
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image50.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image50.png)
 
 *Tiếp tục **Yes** một lần nữa để tiến hành convert máy ảo*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image51.png)
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image52.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image51.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image52.png)
 
 **III./ Start using Parallels Desktop:** đây là chức năng mình cho là ấn
 tượng nhất so với bản 3.0 . Để sử dụng chức năng này thì trong máy phải
@@ -772,19 +772,19 @@ dụng được. Đặc biệt hơn nữa là với những máy đã chia 3part
 parallel vẫn nhận ra được phân vùng chứa win và sử dụng nó.
 
 *Khi vừa chọn chức năng này thì có thông báo hiện ra, chờ vài phút*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image53.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image53.png)
 
 *Khi nào trên màn hình hiện ra như hình dưới là đã xong, thời gian thực
 hiện chưa tới 5p*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image54.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image54.png)
 
 *Khi **Start** máy ảo, một thông báo hiện ra đại ý là: chuột và bàn phím
 sẽ đơ vài phút, vui lòng chờ*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image55.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image55.png)
 
 *Nếu bạn bị treo ở màn wellcome thì cũng đừng nóng nhé, kiên nhẫn chờ*
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image56.png)
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image57.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image56.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image57.png)
 
 -   Lưu ý là khi thiết lập cấu hình máy ảo, bạn chia cho máy ảo bao
     nhiêu ram thì khi chạy nó cũng chiếm từng đó ram thật của hệ thống.
@@ -804,11 +804,11 @@ sẽ đơ vài phút, vui lòng chờ*
 
 Đầu tiên các ban click vào **system preferences** như hình dưới đây
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image58.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image58.png)
 
 tiếp đó các bạn tiếp tục click vào startup như hình dưới đây:
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image59.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image59.png)
 
 tiếp đó các bạn click vào biểu tượng **window** rồi nhấn nút
 **restart**. Ngồi đợi một lúc máy sẽ khởi động lại và tự động chuyển
@@ -837,11 +837,11 @@ SpotLight, DashBoard và trự tiếp từ Preview.
 
 **Hình 1:**
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image60.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image60.png)
 
 **Hình 2:**
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image61.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image61.png)
 
 **
 Để có thể tra từ điển từ trình duyệt ta làm thêm các bước sau:
@@ -849,7 +849,7 @@ SpotLight, DashBoard và trự tiếp từ Preview.
 1 - Tải ADD ON "Lookup in Dictionary" tại đây:
 *https://addons.mozilla.org/en-US/firefox/addon/7261*
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image62.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image62.png)
 
 **PHÁT ÂM**
 
@@ -861,7 +861,7 @@ Command+Control+S. Như vậy mỗi lần muốn phát âm Từ, hay đoạn vă
 bất kỳ đâu), mình chỉ cần chọn nó rồi nhấn cùng lúc 3 phím:
 Command+Control+S
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image63.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image63.png)
 
 **Phần 1: các file .app, .dmg**
 
@@ -876,7 +876,7 @@ mục Applications và chạy luôn, không cần phải cài đặt.
 Vd trong hình: kick đúp vào file **Firefox 2.0.0.8.dmg**, một ổ đĩa sẽ
 được tạo ra
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image64.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image64.png)
 
 -&gt; Copy file chương trình bỏ vào thư mục Applications. Cuối cùng
 eject cái ổ đĩa vừa mới được tạo ra.
@@ -993,7 +993,7 @@ và S*.
 Bác vào System Preferences. Chọn Sharing trong phần Internet & Network.
 Bác muốn share files và máy in với windows thì tick chọn Windows Sharing
 và Printer Sharing.
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image65.jpeg)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image65.png)
 
 **Sau đây là 3 cách dùng tổ hợp phím để chụp màn hình và lưu nhanh thành
 file ảnh .png vào Desktop:
@@ -1014,7 +1014,7 @@ thành phần đó và lưu lại thành file.
 Thí dụ ta có thể chụp hình chiếc máy tính (Widget) như thế này mà không
 dính nền, không dính Wallpaper bằng cách thứ 3:
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image66.png)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image66.png)
 
 **Thêm tính năng cho Magic Mouse bằng MagicPrefs**
 
@@ -1028,7 +1028,7 @@ ngón với các tính năng khác nhau. Tức là ta có đến 10 cách khác 
 ra lệnh trên chuột Magic này... tuy rằng thực tế ta không thể sử dụng
 hết.
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image67.wmf)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image67.wmf)
 
 Tải về:
 
@@ -1040,7 +1040,7 @@ Sau khi tải về, các bạn chép ứng dụng MagicPrefs vào trong thư m�
 Applications và nhấn vào để chạy. Lúc này trên thanh công cụ bên phải sẽ
 xuất hiện biểu tượng của MagicPrefs, bấm vào biểu tượng đó để tùy biến.
 
-![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/media/image68.wmf)
+![](tham-khao---tai-lieu-huong-dan-su-dung-macbook-media/image68.wmf)
 
 **Mẹo: Không phải tất cả các tùy biến đều dùng được do đó bạn chỉ nên
 chọn thêm vài tính năng màn hình hay dùng. **

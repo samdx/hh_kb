@@ -322,17 +322,13 @@ switch quản lí.Giữa hai tòa nhà dùng Bus Topology.
 > Bảng sau liệt kê các thông số của các loại cáp thông dụng hiện nay CAT
 > 5, CAT 5E, CAT 6, CAT 6E
 >
-> ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image1.png){width="6.236111111111111in"
-> height="4.457638888888889in"}Hình ảnh và thông số một số đầu nối cáp:
+> ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/image1.png)Hình ảnh và thông số một số đầu nối cáp:
 >
-> ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image2.png){width="6.116666666666666in"
-> height="4.208333333333333in"}
+> ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/image2.png)
 >
-> ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image3.png){width="6.1125in"
-> height="3.879166666666667in"}
+> ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/image3.png)
 >
-> ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image4.png){width="6.248611111111111in"
-> height="5.375in"}
+> ![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/image4.png)
 >
 > Các thiết bị cụ thể được dùng như sau:
 >
@@ -420,13 +416,11 @@ nhà (với bán kính phủ song là 30m)
 
 > Mô hình vật lí chung của các phòng ban và trung tâm mạng:
 
-![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image5.jpeg){width="12.5375in"
-height="6.802083333333333in"}
+![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/image5.png)
 
 Mô hình vật lí tầng 1:
 
-![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image6.png){width="6.370138888888889in"
-height="3.25in"}
+![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/image6.png)
 
 > Giaỉ thích:
 
@@ -545,13 +539,11 @@ viện và không bị mất mạng khi di chuyển giữa 2 toà nhà.
 
 > Mô hình khu vực trung tâm mạng (tầng 2, nhà A)
 
-![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image7.jpeg){width="12.5375in"
-height="6.802083333333333in"}
+![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/image7.png)
 
 > Tủ thiết bị được đặt ở trung tâm mạng
 
-![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image8.png){width="4.0625in"
-height="6.677083333333333in"}
+![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/image8.png)
 
 > Lập kế hoạch cà thi công hệ thống cáp:
 
@@ -700,8 +692,7 @@ Database Engine, Analysis Service và English Query.... Các thành phần
 này khi phối hợp với nhau tạo thành một giải pháp hoàn chỉnh giúp cho
 việc lưu trữ và phân tích dữ liệu một cách dễ dàng.
 
-![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/media/image9.png){width="5.247916666666667in"
-height="3.9270833333333335in"}
+![](thiet_ke_mang_cho_benh_vien_da_khoa_dong_anh_voi_su_dau_tu_cua_duc-media/image9.png)
 
 Relational Database Engine - Cái lõi của SQL Server:
 

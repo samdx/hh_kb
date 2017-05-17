@@ -14,8 +14,7 @@ chương trình.
 - Quản lý, tổ chức khai thác các tài nguyên của máy một cách thuận
 tiện và tối ưu.
 
-![](media/image1.png){width="6.0in"
-height="4.135416666666667in"}
+![](media/image1.png)
 
 HĐH được lưu trữ ở đâu?
 
@@ -33,7 +32,7 @@ Chức năng của hệ điều hành
 
 Phân loại hệ điều hành:
 
-1\. Giao diện người dùng
+1. Giao diện người dùng
 
 - Giao diện văn bản
 
@@ -57,7 +56,7 @@ Phân loại hệ điều hành:
 
 - Multi-processing: Chạy một chương trình trên nhiều CPU
 
-5\. Đơn nhiệm một người sử dụng: (Single tasking / Single user)
+5. Đơn nhiệm một người sử dụng: (Single tasking / Single user)
 
 Ví dụ: MS DOS. Hệ điều hành này đơn giản và không đòi hỏi máy tính phải
 có bộ xử lý mạnh.
@@ -83,8 +82,7 @@ ngoại vi phong phú.
 
 - Có giao diện dòng lệnh
 
-![](media/image2.png){width="6.010416666666667in"
-height="2.8541666666666665in"}
+![](media/image2.png)
 
 1.  Hệ điều hành Linux
 
@@ -94,8 +92,7 @@ height="2.8541666666666665in"}
 
 - Có nhiều phiên bản hệ điều hành khác nhau: redhat,centos, ubuntu...
 
-![](media/image3.png){width="6.010416666666667in"
-height="3.3958333333333335in"}
+![](media/image3.png)
 
 1.  Hệ điều hành Windows
 
@@ -105,14 +102,11 @@ height="3.3958333333333335in"}
 
 - Có giao diện đồ họa (GUI – Graphical user interface).
 
-![](media/image4.png){width="6.0in"
-height="3.75in"}
+![](media/image4.png)
 
 Lịch sử phát triển của hệ điều hành windows
 
-![](media/image5.jpeg){width="6.385416666666667in"
-height="3.53125in"}
+![](media/image5.png)
 
-![](media/image6.jpeg){width="6.5625in"
-height="4.375in"}
+![](media/image6.png)
 

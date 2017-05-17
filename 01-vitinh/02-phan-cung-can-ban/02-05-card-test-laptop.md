@@ -6,7 +6,7 @@
  loại thường) như các máy IBM T41 thì cổng này đều sử dụng được Card
  Test và đều xuất tín hiệu mã lỗi POST Code.
 
-![](card-test-laptop-media/media/image1.jpeg)
+![](card-test-laptop-media/image1.png)
 
 Khe-MiniPCI-2
 
@@ -21,7 +21,7 @@ Khe-MiniPCI-2
  phải dựa vào nguồn đa năng và đồng hồ vạn năng, kết hợp với kiến
  thức cần thiết về quá trình Post máy.(Dưới đây là minh hoạ)
 
-![](card-test-laptop-media/media/image2.jpeg)
+![](card-test-laptop-media/image2.png)
 
 Cachdau-I2C
 
@@ -53,7 +53,7 @@ một số dòng máy còn hỗ trợ – IBM, Lenovo, Asus)
 - Khi bạn kiểm tra máy, sau khi kích nguồn mã Hecxa nhảy một số bước
  rồi dừng lại ở mã Hecxa là 4A.
  - Bạn tra cứu và nhận được thông tin như
- sau:![](card-test-laptop-media/media/image4.gif)Nếu bạn hiểu tiếng Anh thì bạn cũng
+ sau:![](card-test-laptop-media/image4.png)Nếu bạn hiểu tiếng Anh thì bạn cũng
  cần phải tìm hiểu xem máy mà bạn đang sửa có BIOS do hãngAMIhay
  hãng
  Phoenixlập trình =&gt; thì bạn mới suy ra được sự cố tương ứng,
@@ -186,7 +186,7 @@ một số dòng máy còn hỗ trợ – IBM, Lenovo, Asus)
  và Down, phím Down cho phép bạn xem lại các mã
  đã nhảy qua.
 
-![](card-test-laptop-media/media/image5.gif)
+![](card-test-laptop-media/image5.png)
 
 Card-2in1
 

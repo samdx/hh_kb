@@ -52,7 +52,7 @@ Bước 2: Chuyển đến thư mục I386 trong đĩa CD Windows 2000
 
 Bước 3: Gõ *Winnt32.exe/cmdcons*
 
-![](nhan-dien-khac-phuc-su-co-media/media/image1.png)
+![](nhan-dien-khac-phuc-su-co-media/image1.png)
 
 Bước 4: Sau khi cài đặt Recovery Console, bạn có thể truy cập từ Menu khởi động.
 
@@ -89,7 +89,7 @@ Type | Hiển thị nội dung tập t### văn bản  
 
 - Tạo đĩa Emergency Repair
 
-![](nhan-dien-khac-phuc-su-co-media/media/image2.png)
+![](nhan-dien-khac-phuc-su-co-media/image2.png)
 
 Bước 1: Mở công cụ Backup để tạo
 
@@ -312,8 +312,8 @@ trình shutdown). Thực hiện như sau:
 
 - Nhấn *OK* để xác nhận thay đổi và khởi động lại
 
-![](nhan-dien-khac-phuc-su-co-media/media/image3.jpeg){width="3.25in"
-height="2.452777777777778in"}Việc bỏ tùy chọn *Automatically Restart* sẽ
+![](nhan-dien-khac-phuc-su-co-media/image3.png)
+Việc bỏ tùy chọn *Automatically Restart* sẽ
 làm hệ thống bị treo hoặc hiển thị "màn hình Dump màu xanh " khi gặp lỗi
 như hình bên. Điều này sẽ giúp bạn dễ xác định được nguyên nhân gây lỗi
 hơn.

@@ -21,8 +21,8 @@ của hệ điều hành.
 
  
 
-![](toi-uu-may-tinh-de-choi-games-media/media/image1.png){width="4.291666666666667in"
-height="4.739583333333333in"}
+![](toi-uu-may-tinh-de-choi-games-media/image1.png)
+
 
  
 
@@ -35,8 +35,8 @@ chí treo máy là chuyện bình thường.
 
  
 
-![](toi-uu-may-tinh-de-choi-games-media/media/image2.jpeg){width="6.25in"
-height="4.177083333333333in"}
+![](toi-uu-may-tinh-de-choi-games-media/image2.png)
+
 
  
 
@@ -61,8 +61,8 @@ bạn.
 
  
 
-![](toi-uu-may-tinh-de-choi-games-media/media/image3.jpeg){width="6.25in"
-height="3.9375in"}
+![](toi-uu-may-tinh-de-choi-games-media/image3.png)
+
 
  
 
@@ -100,8 +100,8 @@ thiết để đạt được chất lượng hình ảnh tốt nhất có thể
 
  
 
-![](toi-uu-may-tinh-de-choi-games-media/media/image4.jpeg){width="6.25in"
-height="3.0729166666666665in"}
+![](toi-uu-may-tinh-de-choi-games-media/image4.png)
+
 
  
 
@@ -117,8 +117,8 @@ chơi thử, chỉnh – chơi thử… cho đến khi nào thấy ổn thì th�
 
  
 
-![](toi-uu-may-tinh-de-choi-games-media/media/image5.jpeg){width="6.25in"
-height="3.96875in"}
+![](toi-uu-may-tinh-de-choi-games-media/image5.png)
+
 
  
 
@@ -189,8 +189,8 @@ rất nhiều vì hệ thống phải render nhiều gấp vài lần bình thư
 
  
 
-![](toi-uu-may-tinh-de-choi-games-media/media/image5.jpeg){width="6.25in"
-height="3.96875in"}
+![](toi-uu-may-tinh-de-choi-games-media/image5.png)
+
 
  
 
@@ -201,8 +201,8 @@ phát triển trong tương lai gần.
 
  
 
-![](toi-uu-may-tinh-de-choi-games-media/media/image6.jpeg){width="6.25in"
-height="4.177083333333333in"}
+![](toi-uu-may-tinh-de-choi-games-media/image6.png)
+
 
  
 
@@ -252,5 +252,5 @@ Physical Memory bị sử dụng lớn hơn 90%, bạn nên mua thêm RAM.
 
  
 
-![](toi-uu-may-tinh-de-choi-games-media/media/image7.jpeg){width="6.25in"
-height="3.3645833333333335in"}
+![](toi-uu-may-tinh-de-choi-games-media/image7.png)
+
